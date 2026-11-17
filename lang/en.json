@@ -1,0 +1,36 @@
+{
+  "MORE5EANIM": {
+    "Settings": {
+      "Sync": {
+        "Name": "Automated Animations entries",
+        "Label": "Review and sync",
+        "Hint": "Add, update or remove the entries this module puts in the Automated Animations global menus."
+      },
+      "SyncMode": {
+        "Name": "When the module has changes",
+        "Hint": "What happens when a GM loads the world and there are entries to add, update or remove.",
+        "Prompt": "Ask the GM",
+        "Auto": "Apply without asking",
+        "Off": "Do nothing (use the menu above)"
+      }
+    },
+    "Sync": {
+      "Title": "More D&D5e Animations",
+      "Intro": "Adds presets that D&D5e Animations lacks: the pt-BR names of its items and hand-picked presets for items it does not cover. Each entry copies a D&D5e Animations entry from this world, so edits to that entry carry over.",
+      "Summary": "{add} to add, {update} to update, {remove} to remove.",
+      "NothingToDo": "Everything is up to date.",
+      "Done": "More D&D5e Animations: {add} added, {update} updated, {remove} removed.",
+      "Added": "To add",
+      "Updated": "To update",
+      "Removed": "To remove",
+      "SkippedExists": "Skipped: another entry already has this name",
+      "SkippedModified": "Skipped: edited in Automated Animations (kept as is)",
+      "SkippedNoSource": "Skipped: source entry not found",
+      "Ignored": "Ignored names",
+      "IgnoredHint": "One name per line. These entries are removed and never added again.",
+      "Apply": "Apply",
+      "RemoveAll": "Remove all",
+      "Cancel": "Cancel"
+    }
+  }
+}

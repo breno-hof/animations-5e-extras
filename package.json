@@ -1,0 +1,21 @@
+{
+  "name": "more-dnd5e-animations",
+  "version": "0.1.0",
+  "private": true,
+  "description": "More Automated Animations presets for D&D5e Animations.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "generate": "node tools/generate-translations.mjs",
+    "check-data": "node tools/check-data.mjs",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "node --test \"test/*.test.ts\"",
+    "build": "node build.mjs",
+    "dev": "node build.mjs --dev",
+    "check": "npm run typecheck && npm run check-data && npm test && npm run build"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2"
+  }
+}

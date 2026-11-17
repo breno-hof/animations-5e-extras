@@ -1,0 +1,36 @@
+{
+  "MORE5EANIM": {
+    "Settings": {
+      "Sync": {
+        "Name": "Entradas do Automated Animations",
+        "Label": "Revisar e sincronizar",
+        "Hint": "Adiciona, atualiza ou remove as entradas que este módulo coloca nos menus globais do Automated Animations."
+      },
+      "SyncMode": {
+        "Name": "Quando o módulo tiver mudanças",
+        "Hint": "O que acontece quando um Mestre abre o mundo e há entradas para adicionar, atualizar ou remover.",
+        "Prompt": "Perguntar ao Mestre",
+        "Auto": "Aplicar sem perguntar",
+        "Off": "Não fazer nada (use o menu acima)"
+      }
+    },
+    "Sync": {
+      "Title": "More D&D5e Animations",
+      "Intro": "Adiciona presets que faltam no D&D5e Animations: os nomes em pt-BR dos itens dele e presets escolhidos à mão para itens que ele não cobre. Cada entrada copia uma entrada do D&D5e Animations deste mundo, então ajustes feitos nela são levados junto.",
+      "Summary": "{add} para adicionar, {update} para atualizar, {remove} para remover.",
+      "NothingToDo": "Tudo em dia.",
+      "Done": "More D&D5e Animations: {add} adicionadas, {update} atualizadas, {remove} removidas.",
+      "Added": "Para adicionar",
+      "Updated": "Para atualizar",
+      "Removed": "Para remover",
+      "SkippedExists": "Ignoradas: já existe outra entrada com este nome",
+      "SkippedModified": "Ignoradas: editadas no Automated Animations (mantidas como estão)",
+      "SkippedNoSource": "Ignoradas: entrada de origem não encontrada",
+      "Ignored": "Nomes ignorados",
+      "IgnoredHint": "Um nome por linha. Essas entradas são removidas e nunca mais adicionadas.",
+      "Apply": "Aplicar",
+      "RemoveAll": "Remover todas",
+      "Cancel": "Cancelar"
+    }
+  }
+}

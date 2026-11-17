@@ -1,0 +1,5665 @@
+{
+ "lang": "pt-BR",
+ "dnd5eAnimations": "3.3.0",
+ "entries": [
+  {
+   "menu": "aefx",
+   "label": "Abençoado",
+   "source": "Blessed",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Abrasado",
+   "source": "Seared"
+  },
+  {
+   "menu": "aefx",
+   "label": "Acelerado",
+   "source": "Hasted",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Ácido Persistente",
+   "source": "Lingering Acid"
+  },
+  {
+   "menu": "aefx",
+   "label": "Adormecido",
+   "source": "Sleeping"
+  },
+  {
+   "menu": "aefx",
+   "label": "Alerta",
+   "source": "Alertness",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Amedrontado",
+   "source": "Frightened"
+  },
+  {
+   "menu": "aefx",
+   "label": "Animação Suspensa",
+   "source": "Suspended Animation"
+  },
+  {
+   "menu": "aefx",
+   "label": "Anjo Vingador",
+   "source": "Avenging Angel"
+  },
+  {
+   "menu": "aefx",
+   "label": "Aprisionamento: ",
+   "source": "Imprisonment: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Armadura Arcana",
+   "source": "Mage Armor",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Armadura de Agathys",
+   "source": "Armor of Agathys",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Asas Celestiais",
+   "source": "Heavenly Wings"
+  },
+  {
+   "menu": "aefx",
+   "label": "Asas de Dragão",
+   "source": "Dragon Wings"
+  },
+  {
+   "menu": "aefx",
+   "label": "Atleta Incomparável",
+   "source": "Peerless Athlete"
+  },
+  {
+   "menu": "aefx",
+   "label": "Atordoado",
+   "source": "Stunned"
+  },
+  {
+   "menu": "aefx",
+   "label": "Aura de Celeridade",
+   "source": "Aura of Alacrity",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Aura de Coragem",
+   "source": "Aura of Courage",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Aura de Devoção",
+   "source": "Aura of Devotion",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Aura de Proteção",
+   "source": "Aura of Protection",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Aura de Resguardo",
+   "source": "Aura of Warding",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Banido",
+   "source": "Banished"
+  },
+  {
+   "menu": "aefx",
+   "label": "Barreira Imperceptível",
+   "source": "Imperceptible Barrier"
+  },
+  {
+   "menu": "aefx",
+   "label": "Bastião da Lei",
+   "source": "Bastion of Law"
+  },
+  {
+   "menu": "aefx",
+   "label": "Bênção",
+   "source": "Bless",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Campo Cintilante",
+   "source": "Shimmering Field"
+  },
+  {
+   "menu": "aefx",
+   "label": "Campo Luminoso",
+   "source": "Shimmering Field"
+  },
+  {
+   "menu": "aefx",
+   "label": "Carne para Pedra: ",
+   "source": "Flesh to Stone: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Cauterizado",
+   "source": "Seared"
+  },
+  {
+   "menu": "aefx",
+   "label": "Celeridade",
+   "source": "Haste",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Cintilante",
+   "source": "Shining"
+  },
+  {
+   "menu": "aefx",
+   "label": "Círculo de Poder",
+   "source": "Circle of Power"
+  },
+  {
+   "menu": "aefx",
+   "label": "Compreensão",
+   "source": "Comprehension"
+  },
+  {
+   "menu": "aefx",
+   "label": "Comunicação Universal",
+   "source": "Universal Communication"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Aura de Pureza",
+   "source": "Concentrating: Aura of Purity"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Aura de Vida",
+   "source": "Concentrating: Aura of Life"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Aura de Vitalidade",
+   "source": "Concentrating: Aura of Vitality"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Aura Sagrada",
+   "source": "Concentrating: Holy Aura"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Campo Antimagia",
+   "source": "Concentrating: Antimagic Field"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Canto Fúnebre",
+   "source": "Concentrating: Dirge"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Concha Antivida",
+   "source": "Concentrating: Antilife Shell"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Conjurar Elementais Menores",
+   "source": "Concentrating: Conjure Minor Elementals"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Conjurar Seres da Floresta",
+   "source": "Concentrating: Conjure Woodland Beings"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Cúpula Antivida",
+   "source": "Concentrating: Antilife Shell"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Detectar Magia",
+   "source": "Concentrating: Detect Magic"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Detectar o Bem e o Mal",
+   "source": "Concentrating: Detect Evil and Good"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Detectar Veneno e Doença",
+   "source": "Concentrating: Detect Poison and Disease"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Escudo Cacofônico",
+   "source": "Concentrating: Cacophonic Shield"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Estrela Sagrada de Mystra",
+   "source": "Concentrating: Holy Star of Mystra"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Guardiões Espirituais",
+   "source": "Concentrating: Spirit Guardians"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Infusão Elemental de Songal",
+   "source": "Concentrating: Songal's Elemental Suffusion"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Invocar Elementais Menores",
+   "source": "Concentrating: Conjure Minor Elementals"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Invocar Seres da Floresta",
+   "source": "Concentrating: Conjure Woodland Beings"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Invulnerabilidade",
+   "source": "Concentrating: Invulnerability"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Manto do Cruzado",
+   "source": "Concentrating: Crusader's Mantle"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Nublar",
+   "source": "Concentrating: Blur",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Passos sem Pegadas",
+   "source": "Concentrating: Pass without Trace"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Presença Régia de Yolande",
+   "source": "Concentrating: Yolande's Regal Presence"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Raio Solar",
+   "source": "Concentrating: Sunbeam"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Recuo Acelerado",
+   "source": "Concentrating: Expeditious Retreat"
+  },
+  {
+   "menu": "aefx",
+   "label": "Concentrado: Retirada Acelerada",
+   "source": "Concentrating: Expeditious Retreat"
+  },
+  {
+   "menu": "aefx",
+   "label": "Confuso",
+   "source": "Confused",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Conhecimento das Pedras",
+   "source": "Stonecunning"
+  },
+  {
+   "menu": "aefx",
+   "label": "Conhecimento de Pedras",
+   "source": "Stonecunning"
+  },
+  {
+   "menu": "aefx",
+   "label": "Constrição: Contido",
+   "source": "Entangle: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Constrição: Impedido",
+   "source": "Entangle: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Constrito",
+   "source": "Ensnared"
+  },
+  {
+   "menu": "aefx",
+   "label": "Contágio: Veneno",
+   "source": "Contagion: Poison"
+  },
+  {
+   "menu": "aefx",
+   "label": "Contornado",
+   "source": "Outlined"
+  },
+  {
+   "menu": "aefx",
+   "label": "Corajoso",
+   "source": "Courageous"
+  },
+  {
+   "menu": "aefx",
+   "label": "Coroa da Loucura: Enfeitiçado",
+   "source": "Crown of Madness: Charmed"
+  },
+  {
+   "menu": "aefx",
+   "label": "Coroa Espectral",
+   "source": "Spectral Crown"
+  },
+  {
+   "menu": "aefx",
+   "label": "Dança Curta",
+   "source": "Short Dance"
+  },
+  {
+   "menu": "aefx",
+   "label": "Dança Irresistível",
+   "source": "Irresistible Dance"
+  },
+  {
+   "menu": "aefx",
+   "label": "De Carne Para Pedra: ",
+   "source": "Flesh to Stone: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Delineado",
+   "source": "Outlined"
+  },
+  {
+   "menu": "aefx",
+   "label": "Desacelerado",
+   "source": "Slowed",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Desacelerar",
+   "source": "Slow",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Deslocamento Reduzido",
+   "source": "Reduced Movement"
+  },
+  {
+   "menu": "aefx",
+   "label": "Dominado",
+   "source": "Dominated"
+  },
+  {
+   "menu": "aefx",
+   "label": "Dormindo",
+   "source": "Sleeping"
+  },
+  {
+   "menu": "aefx",
+   "label": "Égide",
+   "source": "Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Em Chamas",
+   "source": "Burning"
+  },
+  {
+   "menu": "aefx",
+   "label": "Encorajado",
+   "source": "Courageous"
+  },
+  {
+   "menu": "aefx",
+   "label": "Enfeitiçado",
+   "source": "Charmed"
+  },
+  {
+   "menu": "aefx",
+   "label": "Enredado",
+   "source": "Ensnared"
+  },
+  {
+   "menu": "aefx",
+   "label": "Envolvido na Esfera",
+   "source": "Enclosed in Sphere "
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo",
+   "source": "Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo Arcano",
+   "source": "Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo Ardente",
+   "source": "Fire Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo da Fé",
+   "source": "Shield of Faith",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo de Fogo",
+   "source": "Fire Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo Gélido",
+   "source": "Chill Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Escudo Quente",
+   "source": "Warm Shield",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Esfera Resiliente",
+   "source": "Resilient Sphere"
+  },
+  {
+   "menu": "aefx",
+   "label": "Esquentar Metal: ",
+   "source": "Heat Metal: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Estado de Transe",
+   "source": "Trance State"
+  },
+  {
+   "menu": "aefx",
+   "label": "Estática Sináptica: Pensamentos Confusos",
+   "source": "Synaptic Static: Muddled Thoughts"
+  },
+  {
+   "menu": "aefx",
+   "label": "Etéreo",
+   "source": "Ethereal"
+  },
+  {
+   "menu": "aefx",
+   "label": "Evasão de Elminster",
+   "source": "Elminster's Elusion"
+  },
+  {
+   "menu": "aefx",
+   "label": "Favor Divino",
+   "source": "Divine Favor"
+  },
+  {
+   "menu": "aefx",
+   "label": "Forma de Nuvem",
+   "source": "Cloud Form",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Forma Estrelada",
+   "source": "Starry Form"
+  },
+  {
+   "menu": "aefx",
+   "label": "Forma Gasosa",
+   "source": "Gaseous Form",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Frenesi",
+   "source": "Berserk"
+  },
+  {
+   "menu": "aefx",
+   "label": "Fúria",
+   "source": "Rage"
+  },
+  {
+   "menu": "aefx",
+   "label": "Fúria Descontrolada",
+   "source": "Berserk"
+  },
+  {
+   "menu": "aefx",
+   "label": "Golpe Constritor: Contido",
+   "source": "Ensnaring Strike: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Golpe Constritor: Impedido",
+   "source": "Ensnaring Strike: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Golpe Enredador: Contido",
+   "source": "Ensnaring Strike: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Golpe Enredador: Impedido",
+   "source": "Ensnaring Strike: Restrained"
+  },
+  {
+   "menu": "aefx",
+   "label": "Hipnotizado",
+   "source": "Hypnotized"
+  },
+  {
+   "menu": "aefx",
+   "label": "Iluminado",
+   "source": "Illuminated"
+  },
+  {
+   "menu": "aefx",
+   "label": "Imobilizar Monstro: ",
+   "source": "Hold Monster: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Imobilizar Pessoa: ",
+   "source": "Hold Person: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Infectado",
+   "source": "Infected"
+  },
+  {
+   "menu": "aefx",
+   "label": "Inspiração de Bardo",
+   "source": "Bardic Inspiration"
+  },
+  {
+   "menu": "aefx",
+   "label": "Lenda Viva",
+   "source": "Living Legend"
+  },
+  {
+   "menu": "aefx",
+   "label": "Lentidão",
+   "source": "Slow",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Lento",
+   "source": "Slowed",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Levando a Mensagem",
+   "source": "Carrying Message"
+  },
+  {
+   "menu": "aefx",
+   "label": "Levando Mensagem",
+   "source": "Carrying Message"
+  },
+  {
+   "menu": "aefx",
+   "label": "Levitando",
+   "source": "Levitating"
+  },
+  {
+   "menu": "aefx",
+   "label": "Majestade Inquebrável",
+   "source": "Unbreakable Majesty"
+  },
+  {
+   "menu": "aefx",
+   "label": "Maldição",
+   "source": "Curse",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Metal Aquecido",
+   "source": "Heated Metal"
+  },
+  {
+   "menu": "aefx",
+   "label": "Movimento Irrestrito",
+   "source": "Unrestricted Movement"
+  },
+  {
+   "menu": "aefx",
+   "label": "Movimento Reduzido",
+   "source": "Reduced Movement"
+  },
+  {
+   "menu": "aefx",
+   "label": "Orientação",
+   "source": "Guidance",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Padrão Hipnótico: ",
+   "source": "Hypnotic Pattern: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Passos Largos",
+   "source": "Longstrider"
+  },
+  {
+   "menu": "aefx",
+   "label": "Passos Longos",
+   "source": "Longstrider"
+  },
+  {
+   "menu": "aefx",
+   "label": "Pele de Árvore",
+   "source": "Barkskin",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Pele de Casca de Árvore",
+   "source": "Bark-like Skin",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Pele de Pedra",
+   "source": "Stoneskin",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Pensamentos Confusos",
+   "source": "Muddled Thoughts"
+  },
+  {
+   "menu": "aefx",
+   "label": "Perdição",
+   "source": "Bane",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Poder do Círculo",
+   "source": "Circle's Power"
+  },
+  {
+   "menu": "aefx",
+   "label": "Presciência",
+   "source": "Foresight"
+  },
+  {
+   "menu": "aefx",
+   "label": "Presença Majestosa",
+   "source": "Majestic Presence"
+  },
+  {
+   "menu": "aefx",
+   "label": "Presença Régia de Yolande: Caído",
+   "source": "Yolande's Regal Presence: Prone"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção",
+   "source": "Protection",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção Arcana",
+   "source": "Arcane Ward",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Ácido",
+   "source": "Acid Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Eletricidade",
+   "source": "Lightning Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Elétrico",
+   "source": "Lightning Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Fogo",
+   "source": "Fire Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Frio",
+   "source": "Cold Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Gélido",
+   "source": "Cold Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Ígneo",
+   "source": "Fire Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Lâminas",
+   "source": "Blade Ward"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Trovão",
+   "source": "Thunder Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Trovejante",
+   "source": "Thunder Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Veneno",
+   "source": "Poison Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Proteção contra Venenoso",
+   "source": "Poison Protection"
+  },
+  {
+   "menu": "aefx",
+   "label": "Protegido",
+   "source": "Protected"
+  },
+  {
+   "menu": "aefx",
+   "label": "Protegido pela Lei",
+   "source": "Warded by Law"
+  },
+  {
+   "menu": "aefx",
+   "label": "Queimando",
+   "source": "Burning"
+  },
+  {
+   "menu": "aefx",
+   "label": "Radiância Abrasadora",
+   "source": "Searing Radiance"
+  },
+  {
+   "menu": "aefx",
+   "label": "Raio Guia",
+   "source": "Guiding Bolt"
+  },
+  {
+   "menu": "aefx",
+   "label": "Raio Guiador",
+   "source": "Guiding Bolt"
+  },
+  {
+   "menu": "aefx",
+   "label": "Regenerando",
+   "source": "Regenerating"
+  },
+  {
+   "menu": "aefx",
+   "label": "Resistência: ",
+   "source": "Resistance: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Ridicularizado",
+   "source": "Mocked"
+  },
+  {
+   "menu": "aefx",
+   "label": "Riso Descontrolado",
+   "source": "Uncontrollable Laughter"
+  },
+  {
+   "menu": "aefx",
+   "label": "Riso Incontrolável",
+   "source": "Uncontrollable Laughter"
+  },
+  {
+   "menu": "aefx",
+   "label": "Salto",
+   "source": "Jump"
+  },
+  {
+   "menu": "aefx",
+   "label": "Sintonia Elemental",
+   "source": "Elemental Attunement"
+  },
+  {
+   "menu": "aefx",
+   "label": "Sono: ",
+   "source": "Sleep: "
+  },
+  {
+   "menu": "aefx",
+   "label": "Sugestão",
+   "source": "Suggestion",
+   "excludedTerms": [
+    "Concentrat",
+    "Concentra"
+   ]
+  },
+  {
+   "menu": "aefx",
+   "label": "Sugestão em Massa",
+   "source": "Mass Suggestion"
+  },
+  {
+   "menu": "aefx",
+   "label": "Transformando-se em Pedra",
+   "source": "Turning to Stone"
+  },
+  {
+   "menu": "aefx",
+   "label": "Velocidade",
+   "source": "Haste",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Vinculado",
+   "source": "Bonded"
+  },
+  {
+   "menu": "aefx",
+   "label": "Vinculado ao Serviço",
+   "source": "Bound to Service"
+  },
+  {
+   "menu": "aefx",
+   "label": "Voando",
+   "source": "Flight"
+  },
+  {
+   "menu": "aefx",
+   "label": "Voo",
+   "source": "Flight",
+   "exactMatch": true
+  },
+  {
+   "menu": "aefx",
+   "label": "Zombado",
+   "source": "Mocked"
+  },
+  {
+   "menu": "aefx",
+   "label": "Zombaria Perversa",
+   "source": "Vicious Mockery"
+  },
+  {
+   "menu": "aefx",
+   "label": "Zombaria Viciosa",
+   "source": "Vicious Mockery"
+  },
+  {
+   "menu": "melee",
+   "label": "Açoite",
+   "source": "Lash"
+  },
+  {
+   "menu": "melee",
+   "label": "Adaga",
+   "source": "Dagger"
+  },
+  {
+   "menu": "melee",
+   "label": "Agarrar",
+   "source": "Grapple"
+  },
+  {
+   "menu": "melee",
+   "label": "Alabarda",
+   "source": "Halberd"
+  },
+  {
+   "menu": "melee",
+   "label": "Antenas",
+   "source": "Antennae"
+  },
+  {
+   "menu": "melee",
+   "label": "Aparar",
+   "source": "Parry"
+  },
+  {
+   "menu": "melee",
+   "label": "Aríete",
+   "source": "Ram"
+  },
+  {
+   "menu": "melee",
+   "label": "Arpão",
+   "source": "Harpoon"
+  },
+  {
+   "menu": "melee",
+   "label": "Arrancar",
+   "source": "Gouge"
+  },
+  {
+   "menu": "melee",
+   "label": "Arranhão",
+   "source": "Scratch"
+  },
+  {
+   "menu": "melee",
+   "label": "Artes Marciais",
+   "source": "Martial Arts"
+  },
+  {
+   "menu": "melee",
+   "label": "Ataque Atordoante",
+   "source": "Stunning Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Ataque Desarmado",
+   "source": "Unarmed Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Atropelar",
+   "source": "Trample"
+  },
+  {
+   "menu": "melee",
+   "label": "Barba",
+   "source": "Beard"
+  },
+  {
+   "menu": "melee",
+   "label": "Bastão",
+   "source": "Quarterstaff"
+  },
+  {
+   "menu": "melee",
+   "label": "Bico",
+   "source": "Beak"
+  },
+  {
+   "menu": "melee",
+   "label": "Bordão",
+   "source": "Quarterstaff"
+  },
+  {
+   "menu": "melee",
+   "label": "Cabelo de Serpentes",
+   "source": "Snake Hair"
+  },
+  {
+   "menu": "melee",
+   "label": "Cajado",
+   "source": "Staff"
+  },
+  {
+   "menu": "melee",
+   "label": "Cascos",
+   "source": "Hooves"
+  },
+  {
+   "menu": "melee",
+   "label": "Cauda",
+   "source": "Tail"
+  },
+  {
+   "menu": "melee",
+   "label": "Chicote",
+   "source": "Whip"
+  },
+  {
+   "menu": "melee",
+   "label": "Chicote de Osso",
+   "source": "Bone Whip"
+  },
+  {
+   "menu": "melee",
+   "label": "Chifrada",
+   "source": "Gore"
+  },
+  {
+   "menu": "melee",
+   "label": "Cimitarra",
+   "source": "Scimitar"
+  },
+  {
+   "menu": "melee",
+   "label": "Clava",
+   "source": "Club"
+  },
+  {
+   "menu": "melee",
+   "label": "Clava Grande",
+   "source": "Greatclub"
+  },
+  {
+   "menu": "melee",
+   "label": "Corrente",
+   "source": "Chain"
+  },
+  {
+   "menu": "melee",
+   "label": "Devastar",
+   "source": "Ravage"
+  },
+  {
+   "menu": "melee",
+   "label": "Dilacerar",
+   "source": "Rend"
+  },
+  {
+   "menu": "melee",
+   "label": "Dilacerar Fortalecido por Energia",
+   "source": "Force-Empowered Rend"
+  },
+  {
+   "menu": "melee",
+   "label": "Égide",
+   "source": "Shield"
+  },
+  {
+   "menu": "melee",
+   "label": "Empurrão",
+   "source": "Shove"
+  },
+  {
+   "menu": "melee",
+   "label": "Engrenagem",
+   "source": "Gear"
+  },
+  {
+   "menu": "melee",
+   "label": "Escudo",
+   "source": "Shield"
+  },
+  {
+   "menu": "melee",
+   "label": "Escudo Arcano",
+   "source": "Shield"
+  },
+  {
+   "menu": "melee",
+   "label": "Espada Arcana",
+   "source": "Arcane Sword"
+  },
+  {
+   "menu": "melee",
+   "label": "Espada Curta",
+   "source": "Shortsword"
+  },
+  {
+   "menu": "melee",
+   "label": "Espada Grande",
+   "source": "Greatsword"
+  },
+  {
+   "menu": "melee",
+   "label": "Espada Longa",
+   "source": "Longsword"
+  },
+  {
+   "menu": "melee",
+   "label": "Estocada",
+   "source": "Stab"
+  },
+  {
+   "menu": "melee",
+   "label": "Ferrão",
+   "source": "Sting"
+  },
+  {
+   "menu": "melee",
+   "label": "Foice",
+   "source": "Sickle"
+  },
+  {
+   "menu": "melee",
+   "label": "Foice Curta",
+   "source": "Sickle"
+  },
+  {
+   "menu": "melee",
+   "label": "Gadanha",
+   "source": "Scythe"
+  },
+  {
+   "menu": "melee",
+   "label": "Gancho",
+   "source": "Hook"
+  },
+  {
+   "menu": "melee",
+   "label": "Garra",
+   "source": "Claw"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe",
+   "source": "Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe Atordoante",
+   "source": "Stunning Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe Brutal",
+   "source": "Brutal Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe do Vento de Aço",
+   "source": "Steel Wind Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe Elemental",
+   "source": "Elemental Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Golpe Sepulcral",
+   "source": "Grave Strike"
+  },
+  {
+   "menu": "melee",
+   "label": "Interceptação",
+   "source": "Interception"
+  },
+  {
+   "menu": "melee",
+   "label": "Investida",
+   "source": "Charge",
+   "excludedTerms": [
+    "Spell",
+    "Magic"
+   ]
+  },
+  {
+   "menu": "melee",
+   "label": "Lança",
+   "source": "Spear"
+  },
+  {
+   "menu": "melee",
+   "label": "Lança de Montaria",
+   "source": "Lance"
+  },
+  {
+   "menu": "melee",
+   "label": "Maça",
+   "source": "Mace"
+  },
+  {
+   "menu": "melee",
+   "label": "Maça Estrela",
+   "source": "Morningstar"
+  },
+  {
+   "menu": "melee",
+   "label": "Machadinha",
+   "source": "Handaxe"
+  },
+  {
+   "menu": "melee",
+   "label": "Machado Grande",
+   "source": "Greataxe"
+  },
+  {
+   "menu": "melee",
+   "label": "Malho",
+   "source": "Maul"
+  },
+  {
+   "menu": "melee",
+   "label": "Mangual",
+   "source": "Flail"
+  },
+  {
+   "menu": "melee",
+   "label": "Marrada",
+   "source": "Ram"
+  },
+  {
+   "menu": "melee",
+   "label": "Martelo",
+   "source": "Hammer"
+  },
+  {
+   "menu": "melee",
+   "label": "Martelo de Guerra",
+   "source": "Warhammer"
+  },
+  {
+   "menu": "melee",
+   "label": "Montante",
+   "source": "Greatsword"
+  },
+  {
+   "menu": "melee",
+   "label": "Palma Trêmula",
+   "source": "Quivering Palm"
+  },
+  {
+   "menu": "melee",
+   "label": "Palma Vibrante",
+   "source": "Quivering Palm"
+  },
+  {
+   "menu": "melee",
+   "label": "Pancada",
+   "source": "Slam"
+  },
+  {
+   "menu": "melee",
+   "label": "Pata Dianteira",
+   "source": "Foreleg"
+  },
+  {
+   "menu": "melee",
+   "label": "Picareta de Guerra",
+   "source": "War Pick"
+  },
+  {
+   "menu": "melee",
+   "label": "Pinça",
+   "source": "Pincer"
+  },
+  {
+   "menu": "melee",
+   "label": "Pique",
+   "source": "Pike"
+  },
+  {
+   "menu": "melee",
+   "label": "Pisotear",
+   "source": "Trample"
+  },
+  {
+   "menu": "melee",
+   "label": "Presa",
+   "source": "Tusk"
+  },
+  {
+   "menu": "melee",
+   "label": "Pseudópode",
+   "source": "Pseudopod"
+  },
+  {
+   "menu": "melee",
+   "label": "Punho",
+   "source": "Fist"
+  },
+  {
+   "menu": "melee",
+   "label": "Rajada de Golpes",
+   "source": "Flurry of Blows"
+  },
+  {
+   "menu": "melee",
+   "label": "Rapieira",
+   "source": "Rapier"
+  },
+  {
+   "menu": "melee",
+   "label": "Rasgar",
+   "source": "Rake"
+  },
+  {
+   "menu": "melee",
+   "label": "Retaliação",
+   "source": "Retaliation"
+  },
+  {
+   "menu": "melee",
+   "label": "Talho",
+   "source": "Slash"
+  },
+  {
+   "menu": "melee",
+   "label": "Técnica da Mão Aberta",
+   "source": "Open Hand Technique"
+  },
+  {
+   "menu": "melee",
+   "label": "Torrente de Golpes",
+   "source": "Flurry of Blows"
+  },
+  {
+   "menu": "melee",
+   "label": "Tridente",
+   "source": "Trident"
+  },
+  {
+   "menu": "melee",
+   "label": "Trombeta",
+   "source": "Horn"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Abjurar Inimigos",
+   "source": "Abjure Foes"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Abocanhar",
+   "source": "Chomp"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ação Ardilosa",
+   "source": "Cunning Action"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ácido (vidro)",
+   "source": "Acid (vial)"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Acudir os Moribundos",
+   "source": "Spare the Dying"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Adivinhação",
+   "source": "Divination"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Afinidade Elemental",
+   "source": "Elemental Affinity"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aliado Extraplanar",
+   "source": "Planar Ally"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aliado Planar",
+   "source": "Planar Ally"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aljava Veloz",
+   "source": "Swift Quiver"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Alma do Artifício",
+   "source": "Soul of Artifice"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Alma Radiante",
+   "source": "Radiant Soul"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Alterar-se",
+   "source": "Alter Self"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Amizade",
+   "source": "Friends"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Amizade Animal",
+   "source": "Animal Friendship"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Andar sobre a Água",
+   "source": "Water Walk"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Animar Mortos",
+   "source": "Animate Dead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Animar Objetos",
+   "source": "Animate Objects"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aparência Vil",
+   "source": "Vile Appearance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aprimorar Atributo",
+   "source": "Enhance Ability"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aprisionamento",
+   "source": "Imprisonment"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arca Secreta",
+   "source": "Secret Chest"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Areias Escaldantes",
+   "source": "Scorching Sands"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arma Elemental",
+   "source": "Elemental Weapon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arma Espiritual",
+   "source": "Spiritual Weapon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arma Mágica",
+   "source": "Magic Weapon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arma Sagrada",
+   "source": "Sacred Weapon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Armadura Arcana",
+   "source": "Mage Armor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Armadura Arcanizada",
+   "source": "Arcane Armor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Armadura da Morte",
+   "source": "Death Armor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Armadura de Agathys",
+   "source": "Armor of Agathys"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arquidruida",
+   "source": "Archdruid"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arremessar pelo Inferno",
+   "source": "Hurl Through Hell"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arrombar",
+   "source": "Knock"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Arte Druídica",
+   "source": "Druidcraft"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Assassino Fantasmagórico",
+   "source": "Phantasmal Killer"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Assinatura Mágica",
+   "source": "Signature Spells"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Assustar",
+   "source": "Scare"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Astúcia Mágica",
+   "source": "Magical Cunning"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ataque Furtivo",
+   "source": "Sneak Attack"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Atlas do Aventureiro",
+   "source": "Adventurer's Atlas"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Atravessar Paredes",
+   "source": "Passwall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Augúrio",
+   "source": "Augury"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aumentar/Reduzir",
+   "source": "Enlarge/Reduce"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Aura de Fogo",
+   "source": "Fire Aura"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Auto Aperfeiçoamento",
+   "source": "Perfect Self"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Auxílio",
+   "source": "Aid"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Azar",
+   "source": "Jinx",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Baluarte de Energia",
+   "source": "Bulwark of Force"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Banimento",
+   "source": "Banishment"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Banir",
+   "source": "Banish"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Banquete de Heróis",
+   "source": "Heroes' Feast"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Barreira de Lâminas",
+   "source": "Blade Barrier"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Baú Secreto",
+   "source": "Secret Chest"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bênção",
+   "source": "Bless"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bênção do Obscuro",
+   "source": "Dark One's Blessing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Boca Encantada",
+   "source": "Magic Mouth"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bolha de Ar",
+   "source": "Air Bubble"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bom Fruto",
+   "source": "Goodberry"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bordão Místico",
+   "source": "Shillelagh"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Braços de Hadar",
+   "source": "Arms of Hadar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Bruxaria",
+   "source": "Hex"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cacofonia",
+   "source": "Cacophony"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Caminhar em Árvores",
+   "source": "Tree Stride"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Caminhar no Vento",
+   "source": "Wind Walk"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Caminhar Sobre as Águas",
+   "source": "Water Walk"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Canalizar Divindade",
+   "source": "Channel Divinity"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Canção de Descanso",
+   "source": "Song of Rest"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Canção de Proteção",
+   "source": "Countercharm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Canhão Místico",
+   "source": "Eldritch Cannon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cão Fiel",
+   "source": "Faithful Hound"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Caos Controlado",
+   "source": "Controlled Chaos"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cárcere de Energia",
+   "source": "Forcecage"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Carne para Pedra",
+   "source": "Flesh to Stone"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cativar",
+   "source": "Enthrall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cegueira/Surdez",
+   "source": "Blindness/Deafness"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Celeridade",
+   "source": "Haste"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chama Contínua",
+   "source": "Continual Flame"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chama Radiante",
+   "source": "Radiant Flame"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chama Sagrada",
+   "source": "Sacred Flame"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chicote de Espinhos",
+   "source": "Thorn Whip"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chuva de Espinhos",
+   "source": "Hail of Thorns"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Chuva de Meteoros",
+   "source": "Meteor Swarm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Círculo de Poder",
+   "source": "Circle of Power"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Círculo de Teletransporte",
+   "source": "Teleportation Circle"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Clarão Protetor",
+   "source": "Warding Flare"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Clarividência",
+   "source": "Clairvoyance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cochilo",
+   "source": "Catnap"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Comandar",
+   "source": "Command"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Comando",
+   "source": "Command"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Combatente Clarividente",
+   "source": "Clairvoyant Combatant"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Companheiro Primitivo",
+   "source": "Primal Companion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Companheiro Selvagem",
+   "source": "Wild Companion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Compreender Idiomas",
+   "source": "Comprehend Languages"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Compreensão Maior",
+   "source": "Greater Comprehension"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Compulsão",
+   "source": "Compulsion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Comunhão",
+   "source": "Commune"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Comunhão com a Natureza",
+   "source": "Commune with Nature"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Confusão",
+   "source": "Confusion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Conhecimento Lendário",
+   "source": "Legend Lore"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Conjurar Animais",
+   "source": "Conjure Animals"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Conjurar Constructos",
+   "source": "Conjure Constructs"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Conjurar Elemental",
+   "source": "Conjure Elemental"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Conjurar Fada",
+   "source": "Conjure Fey"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Consciência Primitiva",
+   "source": "Primeval Awareness"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Constringir",
+   "source": "Constrict"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Consumir Memórias",
+   "source": "Consume Memories"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contato com Outro Plano",
+   "source": "Contact Other Plane"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contato Extraplanar",
+   "source": "Contact Other Plane"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contingência",
+   "source": "Contingency"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contraencanto",
+   "source": "Counterspell"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contragolpe",
+   "source": "Backlash"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Contramágica",
+   "source": "Counterspell"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Controlar o Clima",
+   "source": "Control Weather"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Convocação Instantânea",
+   "source": "Instant Summons"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Convocar Familiar",
+   "source": "Find Familiar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Convocar Montaria",
+   "source": "Find Steed"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Corcel Fantasma",
+   "source": "Phantom Steed"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Corda Extradimensional",
+   "source": "Rope Trick"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Corpo Vazio",
+   "source": "Empty Body"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Corrosão Mental",
+   "source": "Mind Corrosion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Crescimento de Plantas",
+   "source": "Plant Growth"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Criar Alimento e Água",
+   "source": "Create Food and Water"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Criar Comida e Água",
+   "source": "Create Food and Water"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Criar Mortos-Vivos",
+   "source": "Create Undead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Cura Completa em Massa",
+   "source": "Mass Heal",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Curandeiro Abençoado",
+   "source": "Blessed Healer"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Curar Ferimentos",
+   "source": "Cure Wounds"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Danação",
+   "source": "Hex"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dança Irresistível",
+   "source": "Irresistible Dance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "De Carne Para Pedra",
+   "source": "Flesh to Stone"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Defensor de Aço",
+   "source": "Steel Defender"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Defesa Gloriosa",
+   "source": "Glorious Defense"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Defesa Paciente",
+   "source": "Patient Defense"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Defletir Projéteis",
+   "source": "Deflect Missiles"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Desaparecer",
+   "source": "Vanish"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Descarga Arcana",
+   "source": "Arcane Jolt"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Descarga de Adrenalina",
+   "source": "Adrenaline Rush"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Desejo",
+   "source": "Wish"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Despertar",
+   "source": "Awaken"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Despistar",
+   "source": "Mislead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Destruição Divina",
+   "source": "Divine Smite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Destruição Mística",
+   "source": "Eldritch Smite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Detectar Pensamentos",
+   "source": "Detect Thoughts"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Disco Flutuante",
+   "source": "Floating Disk"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Disfarçar-se",
+   "source": "Disguise Self"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dissipar Magia",
+   "source": "Dispel Magic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dissipar o Bem e o Mal",
+   "source": "Dispel Evil and Good"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dobrar a Sorte",
+   "source": "Bend Luck"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dobre Fúnebre",
+   "source": "Toll the Dead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dominar Fera",
+   "source": "Dominate Beast"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dominar Magia",
+   "source": "Spell Mastery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dominar Monstro",
+   "source": "Dominate Monster"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dominar Pessoa",
+   "source": "Dominate Person"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Domínio de Magia",
+   "source": "Spell Mastery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Dragão Ilusório",
+   "source": "Illusory Dragon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Duelo Compelido",
+   "source": "Compelled Duel"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Elixir Experimental",
+   "source": "Experimental Elixir"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Emboscador Temível",
+   "source": "Dread Ambusher"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Encantar",
+   "source": "Charm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Encontrar Armadilhas",
+   "source": "Find Traps"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Encontrar Familiar",
+   "source": "Find Familiar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Encontrar Montaria",
+   "source": "Find Steed"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Encontrar o Caminho",
+   "source": "Find the Path"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Enfeitiçar",
+   "source": "Charm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Enfeitiçar Monstro",
+   "source": "Charm Monster"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Enfeitiçar Pessoa",
+   "source": "Charm Person"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Engolir",
+   "source": "Swallow"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Envenenar Armas",
+   "source": "Envenom Weapons"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Enviar Mensagem",
+   "source": "Sending"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Escalada de Aranha",
+   "source": "Spider Climb"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esconder-se em Plena Vista",
+   "source": "Hide in Plain Sight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Escrita Ilusória",
+   "source": "Illusory Script"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Escudo Cintilante",
+   "source": "Shimmering Shield"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esfera Resiliente",
+   "source": "Resilient Sphere"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esferas Refulgentes de Elminster",
+   "source": "Elminster's Effulgent Spheres"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esmagamento Psíquico",
+   "source": "Psychic Crush"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esmagar",
+   "source": "Crush"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Espada de Mordenkainen",
+   "source": "Mordenkainen's Sword"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Especialização em Infiltração",
+   "source": "Infiltration Expertise"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Espírito Animal",
+   "source": "Animal Spirit"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esquentar Metal",
+   "source": "Heat Metal"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Esquiva Sobrenatural",
+   "source": "Uncanny Dodge"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Eu Ilusório",
+   "source": "Illusory Self"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Evocação Potencializada",
+   "source": "Empowered Evocation"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Explosão de Engenhosidade",
+   "source": "Burst of Ingenuity"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Extrair Cérebro",
+   "source": "Extract Brain"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fabricar",
+   "source": "Fabricate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Falar com Animais",
+   "source": "Speak with Animals"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Falar com os Mortos",
+   "source": "Speak with Dead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Falar com Plantas",
+   "source": "Speak with Plants"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fascinar",
+   "source": "Enthrall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Favor Divino",
+   "source": "Divine Favor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Feitiçaria Encarnada",
+   "source": "Sorcery Incarnate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Feitiçaria Inata",
+   "source": "Innate Sorcery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ferir",
+   "source": "Harm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Filhos da Noite",
+   "source": "Children of the Night"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fingir Morte",
+   "source": "Feign Death"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Flecha Relampejante",
+   "source": "Lightning Arrow"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fome de Hadar",
+   "source": "Hunger of Hadar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fonte de Inspiração",
+   "source": "Font of Inspiration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fonte de Magia",
+   "source": "Font of Magic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Forma Etérea",
+   "source": "Etherealness"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Forma Gasosa",
+   "source": "Gaseous Form"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Forma Selvagem",
+   "source": "Wild Shape"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Formas Animais",
+   "source": "Animal Shapes"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fortalecer",
+   "source": "Bolster"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Frio do Gelo",
+   "source": "Frost's Chill"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fuga Ágil",
+   "source": "Nimble Escape"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fundir-se à Pedra",
+   "source": "Meld into Stone"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Funileiro de Itens Mágicos",
+   "source": "Magic Item Tinker"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Fúria",
+   "source": "Rage",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Furtividade Suprema",
+   "source": "Supreme Sneak"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Galhos da Árvore",
+   "source": "Branches of the Tree"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Gargalhada Nefasta",
+   "source": "Hideous Laughter"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Gavinha",
+   "source": "Tendril"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Glifo de Proteção",
+   "source": "Glyph of Warding"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Globos de Luz",
+   "source": "Dancing Lights"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Ardiloso",
+   "source": "Cunning Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Certeiro",
+   "source": "True Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Constritor",
+   "source": "Ensnaring Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe de Sorte",
+   "source": "Stroke of Luck"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Divino",
+   "source": "Divine Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Enredador",
+   "source": "Ensnaring Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Mortal",
+   "source": "Death Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Punitivo",
+   "source": "Smite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpe Sobrenatural",
+   "source": "Otherworldly Strike"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpes Abençoados",
+   "source": "Blessed Strikes"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpes Desonestos",
+   "source": "Devious Strikes"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Golpes Pavorosos",
+   "source": "Dreadful Strikes"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Grito de Guerra",
+   "source": "War Cry"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Guardião da Fé",
+   "source": "Guardian of Faith"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Guerreiro dos Deuses",
+   "source": "Warrior of the Gods"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Halo Sagrado",
+   "source": "Holy Nimbus"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Heroísmo",
+   "source": "Heroism"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Homúnculos Prestativos de Deryan",
+   "source": "Deryan's Helpful Homunculi"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Horrorizar",
+   "source": "Horrify"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Identificação",
+   "source": "Identify"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Identificar",
+   "source": "Identify"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Idiomas",
+   "source": "Tongues"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ilusão Menor",
+   "source": "Minor Illusion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Imagem Espelhada",
+   "source": "Mirror Image"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Imagem Maior",
+   "source": "Major Image"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Imagem Silenciosa",
+   "source": "Silent Image"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Imobilizar Monstro",
+   "source": "Hold Monster"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Imobilizar Pessoa",
+   "source": "Hold Person"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Impor as Mãos",
+   "source": "Lay on Hands"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Incansável",
+   "source": "Tireless"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Indetectável",
+   "source": "Nondetection"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Indomável",
+   "source": "Indomitable"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Infestação",
+   "source": "Infestation"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Infligir Ferimentos",
+   "source": "Inflict Wounds"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Inseto Gigante",
+   "source": "Giant Insect"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Inspiração de Bardo",
+   "source": "Bardic Inspiration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Integridade Corporal",
+   "source": "Wholeness of Body"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Intervenção Divina",
+   "source": "Divine Intervention"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invisibilidade",
+   "source": "Invisibility"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invisibilidade Maior",
+   "source": "Greater Invisibility"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Aberração",
+   "source": "Summon Aberration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Celestial",
+   "source": "Summon Celestial"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Constructo",
+   "source": "Summon Construct"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Dragão",
+   "source": "Summon Dragon"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Duplicidade",
+   "source": "Invoke Duplicity"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Elemental",
+   "source": "Summon Elemental"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Fada",
+   "source": "Summon Fey"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Feérico",
+   "source": "Conjure Fey"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Fera",
+   "source": "Summon Beast"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Ínfero",
+   "source": "Summon Fiend"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Invocar Morto-Vivo",
+   "source": "Summon Undead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Jaula de Energia",
+   "source": "Forcecage"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Juramento de Vingança",
+   "source": "Vow of Revenge"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lábia",
+   "source": "Glibness"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Laço",
+   "source": "Snare",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ladrão de Magias",
+   "source": "Spell Thief"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lágrimas da Meia-Noite",
+   "source": "Midnight Tears"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lâmina do Desastre",
+   "source": "Blade of Disaster"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lâmina Flamejante",
+   "source": "Flame Blade",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lâmina Sombria",
+   "source": "Shadow Blade",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lampejo de Genialidade",
+   "source": "Flash of Genius"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lançar no Inferno",
+   "source": "Hurl Through Hell"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Lenda Conhecida",
+   "source": "Legend Lore"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Levitação",
+   "source": "Levitate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Localizar Criatura",
+   "source": "Locate Creature"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Loquacidade",
+   "source": "Glibness"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Luz",
+   "source": "Light",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Luz Curativa",
+   "source": "Healing Light"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Luzes Dançantes",
+   "source": "Dancing Lights"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Maestria Química",
+   "source": "Chemical Mastery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Magia Risonha",
+   "source": "Giggling Magic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Magias Assinatura",
+   "source": "Signature Spells"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Maldição do Enigma",
+   "source": "Curse of the Riddle"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mansão Magnífica",
+   "source": "Magnificent Mansion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Manto de Inspiração",
+   "source": "Mantle of Inspiration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Manto de Sombras",
+   "source": "Cloak of Shadows"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão Arcana",
+   "source": "Arcane Hand"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão da Cura",
+   "source": "Hand of Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão da Misericórdia Suprema",
+   "source": "Hand of Ultimate Mercy"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão de Bigby",
+   "source": "Bigby's Hand"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão do Dano",
+   "source": "Hand of Harm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mão Mágica",
+   "source": "Mage Hand"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mãos Curativas",
+   "source": "Healing Hands"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mãos Mágicas",
+   "source": "Mage Hand"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mãos Rápidas",
+   "source": "Fast Hands"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Marca do Caçador",
+   "source": "Hunter's Mark"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Marca do Predador",
+   "source": "Hunter's Mark"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Marés do Caos",
+   "source": "Tides of Chaos"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mau Olhado",
+   "source": "Eyebite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mensageiro Animal",
+   "source": "Animal Messenger"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mente Tática",
+   "source": "Tactical Mind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mente Tranquila",
+   "source": "Stillness of Mind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mente Vazia",
+   "source": "Mind Blank"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mestre Místico",
+   "source": "Eldritch Master"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Metabolismo Sobrenatural",
+   "source": "Uncanny Metabolism"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Metamagia",
+   "source": "Metamagic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Metamágica",
+   "source": "Metamagic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Metamorfose",
+   "source": "Polymorph"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Metamorfose Verdadeira",
+   "source": "Shapechange"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mímico",
+   "source": "Mimic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mira Firme",
+   "source": "Steady Aim"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mira Mortal",
+   "source": "Deadly Aim"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Missão",
+   "source": "Geas"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Modelo de Armadura",
+   "source": "Armor Model"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Moldar Pedra",
+   "source": "Stone Shape"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Moldar Rochas",
+   "source": "Stone Shape"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Montaria Fantasma",
+   "source": "Phantom Steed"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mordida",
+   "source": "Bite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mortalha Necrótica",
+   "source": "Necrotic Shroud"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mover Terra",
+   "source": "Move Earth"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Movimentação Livre",
+   "source": "Freedom of Movement"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Movimento Tático",
+   "source": "Tactical Shift"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mudança de Forma",
+   "source": "Shapechange"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Mudança de Plano",
+   "source": "Plane Shift"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Nimbo Sagrado",
+   "source": "Holy Nimbus"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Nuvem de Insetos",
+   "source": "Cloud of Insects"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Nuvem de Muco",
+   "source": "Mucus Cloud"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Nuvem de Trovão",
+   "source": "Thundercloud"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Óleo de Taggit",
+   "source": "Oil of Taggit"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Olhar Fulminante",
+   "source": "Glare"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Olhar Penetrante",
+   "source": "Eyebite"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Olho Arcano",
+   "source": "Arcane Eye"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Oração de Cura",
+   "source": "Prayer of Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Orientação",
+   "source": "Guidance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra Curativa",
+   "source": "Healing Word"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder Atordoar",
+   "source": "Power Word Stun"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder Curar",
+   "source": "Power Word Heal"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder Dor",
+   "source": "Power Word Pain"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder Fortificar",
+   "source": "Power Word Fortify"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder Matar",
+   "source": "Power Word Kill"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder: Atordoar",
+   "source": "Power Word Stun"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Poder: Matar",
+   "source": "Power Word Kill"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Recordação",
+   "source": "Word of Recall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra de Retorno",
+   "source": "Word of Recall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra Divina",
+   "source": "Divine Word"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra Funesta",
+   "source": "Fell Word"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra Radiante",
+   "source": "Word of Radiance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavra Sagrada",
+   "source": "Divine Word"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavras Cortantes",
+   "source": "Cutting Words"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Palavras de Interrupção",
+   "source": "Cutting Words"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Parar o Tempo",
+   "source": "Time Stop"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Passo Arbóreo",
+   "source": "Tree Stride"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Passo do Vento",
+   "source": "Step of the Wind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Passos Largos",
+   "source": "Longstrider"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Passos Longos",
+   "source": "Longstrider"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Patas de Aranha",
+   "source": "Spider Climb"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Percepção Estranha",
+   "source": "Weird Insight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Perdição",
+   "source": "Bane"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Pesadelo",
+   "source": "Nightmare"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Peso dos Anos",
+   "source": "Weight of Years"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Piscar",
+   "source": "Blink"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Pó de Fada",
+   "source": "Faerie Dust"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poção de Cura",
+   "source": "Potion of Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poção de Cura Maior",
+   "source": "Potion of Greater Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poção de Cura Superior",
+   "source": "Potion of Superior Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poção de Cura Suprema",
+   "source": "Potion of Supreme Healing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poção de Veneno",
+   "source": "Potion of Poison"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Polimorfia",
+   "source": "Polymorph"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Portal",
+   "source": "Gate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Portal Arcano",
+   "source": "Arcane Gate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Poupar os Moribundos",
+   "source": "Spare the Dying"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Praga",
+   "source": "Blight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presa do Caçador",
+   "source": "Hunter's Prey"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presciência",
+   "source": "Foresight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presença Aterradora",
+   "source": "Frightful Presence"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presença Senhorial",
+   "source": "Lordly Presence"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presença Zelosa",
+   "source": "Zealous Presence"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Preservar a Vida",
+   "source": "Preserve Life"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Preservar Vida",
+   "source": "Preserve Life"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Presságio Cósmico",
+   "source": "Cosmic Omen"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Prestidigitação",
+   "source": "Prestidigitation"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Prestidigitação Arcana",
+   "source": "Prestidigitation"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proibição",
+   "source": "Forbiddance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Projeção Astral",
+   "source": "Astral Projection"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Projetar Imagem",
+   "source": "Project Image"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção Arcana",
+   "source": "Arcane Ward"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção contra a Morte",
+   "source": "Death Ward"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção contra Lâminas",
+   "source": "Blade Ward"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção Contra Morte",
+   "source": "Death Ward"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção contra o Bem e o Mal",
+   "source": "Protection from Evil and Good"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção contra Veneno",
+   "source": "Protection from Poison"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Proteção Projetada",
+   "source": "Projected Ward"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Queda da Colina",
+   "source": "Hill's Tumble"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Queda Lenta",
+   "source": "Slow Fall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Queda Suave",
+   "source": "Feather Fall"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Queimar Mortos-Vivos",
+   "source": "Sear Undead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rajada do Perseguidor",
+   "source": "Stalker's Flurry"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rastro Constritor",
+   "source": "Entangling Trail"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Realidade Ilusória",
+   "source": "Illusory Reality"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Receptáculo Arcano",
+   "source": "Magic Jar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Recipiente Arcano",
+   "source": "Magic Jar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Recuo Acelerado",
+   "source": "Expeditious Retreat"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Recuperação Arcana",
+   "source": "Arcane Recovery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Recuperação Natural",
+   "source": "Natural Recovery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rede",
+   "source": "Net",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Redemoinho",
+   "source": "Whirlwind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Reencarnar",
+   "source": "Reincarnate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Reflexão de Magia",
+   "source": "Spell Reflection"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Regeneração",
+   "source": "Regeneration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Regenerar",
+   "source": "Regenerate"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Remendar",
+   "source": "Mending"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Remover Maldição",
+   "source": "Remove Curse"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Reparar",
+   "source": "Mending"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Repouso Tranquilo",
+   "source": "Gentle Repose"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Repreensão Infernal",
+   "source": "Hellish Rebuke"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Resiliência Celestial",
+   "source": "Celestial Resilience"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Resistência da Pedra",
+   "source": "Stone's Endurance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Resistência Implacável",
+   "source": "Relentless Endurance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Respiração Aquática",
+   "source": "Water Breathing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Respirar na Água",
+   "source": "Water Breathing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ressurgimento Selvagem",
+   "source": "Wild Resurgence"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ressurreição",
+   "source": "Resurrection"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Restauração Feiticeira",
+   "source": "Sorcerous Restoration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Restauração Maior",
+   "source": "Greater Restoration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Restauração Mística",
+   "source": "Sorcerous Restoration"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Retirada Acelerada",
+   "source": "Expeditious Retreat"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Retomar o Fôlego",
+   "source": "Second Wind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Revelação Celestial",
+   "source": "Celestial Revelation"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Revelação na Carne",
+   "source": "Revelation in Flesh"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Reviver os Mortos",
+   "source": "Raise Dead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Revivificar",
+   "source": "Revivify"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Riso Histérico",
+   "source": "Hideous Laughter"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rogar Maldição",
+   "source": "Bestow Curse"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rugido",
+   "source": "Roar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Rugido Dilacerante de Mentes",
+   "source": "Mind-Rending Roar"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sangue de Assassino",
+   "source": "Assassin's Blood"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Santuário",
+   "source": "Sanctuary"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Santuário Particular",
+   "source": "Private Sanctum"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Segundo Fôlego",
+   "source": "Second Wind"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Semblante",
+   "source": "Seeming"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Semiplano",
+   "source": "Demiplane"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sentido Bestial",
+   "source": "Beast Sense"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sentido Divino",
+   "source": "Divine Sense"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sentinela Imortal",
+   "source": "Undying Sentinel"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sequestrar",
+   "source": "Sequester"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Servo Homúnculo",
+   "source": "Homunculus Servant"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Servo Invisível",
+   "source": "Unseen Servant"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Símbolo",
+   "source": "Symbol"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Simulacro",
+   "source": "Simulacrum"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sinal de Esperança",
+   "source": "Beacon of Hope"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sinostodweomer da Simbul",
+   "source": "Simbul's Synostodweomer"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sintonia Elemental",
+   "source": "Elemental Attunement"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sobrecanalizar",
+   "source": "Overchannel"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sobrecarga",
+   "source": "Overchannel"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sobrepujar",
+   "source": "Whelm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sobrevivente Disciplinado",
+   "source": "Disciplined Survivor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sobrevoo",
+   "source": "Flyby"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sonho",
+   "source": "Dream"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sopro de Euforia",
+   "source": "Euphoria Breath"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Soro da Verdade",
+   "source": "Truth Serum"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sorte do Próprio Obscuro",
+   "source": "Dark One's Own Luck"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Subjugadora",
+   "source": "Whelm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sugestão",
+   "source": "Suggestion"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Surto de Ação",
+   "source": "Action Surge"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Surto Domado",
+   "source": "Tamed Surge"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Sussurros Dissonantes",
+   "source": "Dissonant Whispers"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Táticas Defensivas",
+   "source": "Defensive Tactics"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Taumaturgia",
+   "source": "Thaumaturgy"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Telecinesia",
+   "source": "Telekinesis"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Telecinésia",
+   "source": "Telekinesis"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Telecinético",
+   "source": "Telekinetic"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Telepatia",
+   "source": "Telepathy"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Teleporte via Plantas",
+   "source": "Transport via Plants"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tempestade da Vingança",
+   "source": "Storm of Vengeance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tempestade de Fogo",
+   "source": "Fire Storm"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tentáculo",
+   "source": "Tentacle"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Terremoto",
+   "source": "Earthquake"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tinta",
+   "source": "Ink",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tintura Pálida",
+   "source": "Pale Tincture"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque",
+   "source": "Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Arrepiante",
+   "source": "Chill Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Curativo",
+   "source": "Healing Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Definhador",
+   "source": "Withering Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Definhante",
+   "source": "Withering Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque dos Mortos",
+   "source": "Toll the Dead"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Purificador",
+   "source": "Cleansing Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Toque Restaurador",
+   "source": "Restoring Touch"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tranca Arcana",
+   "source": "Arcane Lock"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Transporte pelas Plantas",
+   "source": "Transport via Plants"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Transporte por Plantas",
+   "source": "Transport via Plants"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Trovão da Tempestade",
+   "source": "Storm's Thunder"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Truque de Corda",
+   "source": "Rope Trick"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Tumulto",
+   "source": "Rampage"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Velocidade",
+   "source": "Haste"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Veneno",
+   "source": "Poison"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Veneno de Serpe",
+   "source": "Wyvern Poison"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Veneno de Serpente",
+   "source": "Serpent Venom"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Veneno de Verme Púrpura",
+   "source": "Purple Worm Poison"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Ver o Invisível",
+   "source": "See Invisibility"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Véu de Sombras",
+   "source": "Veil of Shadow"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Viagem Planar",
+   "source": "Plane Shift"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Víbora de Syluné",
+   "source": "Syluné's Viper"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vidência",
+   "source": "Scrying"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vigias e Proteções",
+   "source": "Guards and Wards"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vigor Arcano",
+   "source": "Arcane Vigor"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vínculo de Guerra",
+   "source": "War Bond"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vínculo de Proteção",
+   "source": "Warding Bond"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vínculo Protetor",
+   "source": "Warding Bond"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vingança Abrasadora",
+   "source": "Searing Vengeance"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vinha Agarradora",
+   "source": "Grasping Vine"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Visão da Verdade",
+   "source": "True Seeing"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Visão do Coração",
+   "source": "Heart Sight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Visão Etérea",
+   "source": "Ethereal Sight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Visão no Escuro",
+   "source": "Darkvision"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vitalidade da Árvore",
+   "source": "Vitality of the Tree"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vitalidade Falsa",
+   "source": "False Life"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Vitalidade Vazia",
+   "source": "False Life"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Voo",
+   "source": "Fly",
+   "exactMatch": true
+  },
+  {
+   "menu": "ontoken",
+   "label": "Voo Dracônico",
+   "source": "Draconic Flight"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Voo Rasante",
+   "source": "Flyby"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Voto de Inimizade",
+   "source": "Vow of Enmity"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Zombaria",
+   "source": "Mockery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Zombaria Perversa",
+   "source": "Vicious Mockery"
+  },
+  {
+   "menu": "ontoken",
+   "label": "Zombaria Viciosa",
+   "source": "Vicious Mockery"
+  },
+  {
+   "menu": "preset",
+   "label": "Arremesso de Gelo",
+   "source": "Ice Throw"
+  },
+  {
+   "menu": "preset",
+   "label": "Bola de Fogo",
+   "source": "Fireball",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Bola de Fogo Adiável",
+   "source": "Delayed Blast Fireball",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Bola de Fogo Controlável",
+   "source": "Delayed Blast Fireball",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Bote",
+   "source": "Pounce",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Caminhar nas Nuvens",
+   "source": "Cloud's Jaunt"
+  },
+  {
+   "menu": "preset",
+   "label": "Carga Arcana",
+   "source": "Arcane Charge"
+  },
+  {
+   "menu": "preset",
+   "label": "Disparada de Bolha",
+   "source": "Bubble Dash"
+  },
+  {
+   "menu": "preset",
+   "label": "Enervação",
+   "source": "Enervation"
+  },
+  {
+   "menu": "preset",
+   "label": "Escavador",
+   "source": "Tunneler"
+  },
+  {
+   "menu": "preset",
+   "label": "Esfera Congelante",
+   "source": "Freezing Sphere"
+  },
+  {
+   "menu": "preset",
+   "label": "Esfera Vitriólica",
+   "source": "Vitriolic Sphere"
+  },
+  {
+   "menu": "preset",
+   "label": "Espreita Arcana",
+   "source": "Arcane Prowl"
+  },
+  {
+   "menu": "preset",
+   "label": "Esquiva Sombria",
+   "source": "Shadowy Dodge"
+  },
+  {
+   "menu": "preset",
+   "label": "Estrepes",
+   "source": "Caltrops"
+  },
+  {
+   "menu": "preset",
+   "label": "Investida Aquática",
+   "source": "Aquatic Charge"
+  },
+  {
+   "menu": "preset",
+   "label": "Investida Arcana",
+   "source": "Arcane Charge"
+  },
+  {
+   "menu": "preset",
+   "label": "Magia Enfeitiçante",
+   "source": "Bewitching Magic"
+  },
+  {
+   "menu": "preset",
+   "label": "Mergulho",
+   "source": "Drop"
+  },
+  {
+   "menu": "preset",
+   "label": "Movimento Engenhoso",
+   "source": "Ingenious Movement"
+  },
+  {
+   "menu": "preset",
+   "label": "Onda Trovejante",
+   "source": "Thunderwave",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Orbe de Fogo Infernal",
+   "source": "Hellfire Orb"
+  },
+  {
+   "menu": "preset",
+   "label": "Passo das Sombras",
+   "source": "Shadow Step"
+  },
+  {
+   "menu": "preset",
+   "label": "Passo Distorcido",
+   "source": "Warp Step"
+  },
+  {
+   "menu": "preset",
+   "label": "Passo do Luar",
+   "source": "Moonlight Step"
+  },
+  {
+   "menu": "preset",
+   "label": "Passo Ligeiro",
+   "source": "Fleet Step"
+  },
+  {
+   "menu": "preset",
+   "label": "Passo Nebuloso",
+   "source": "Misty Step"
+  },
+  {
+   "menu": "preset",
+   "label": "Passos Feéricos",
+   "source": "Steps of the Fey",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Porta Dimensional",
+   "source": "Dimension Door"
+  },
+  {
+   "menu": "preset",
+   "label": "Salto",
+   "source": "Leap"
+  },
+  {
+   "menu": "preset",
+   "label": "Salto das Nuvens",
+   "source": "Cloud's Jaunt"
+  },
+  {
+   "menu": "preset",
+   "label": "Salto de Portal",
+   "source": "Portal Jump"
+  },
+  {
+   "menu": "preset",
+   "label": "Sono",
+   "source": "Sleep",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Teleporte",
+   "source": "Teleport",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Teletransportar",
+   "source": "Teleport",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Teletransporte",
+   "source": "Teleport",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Teletransporte Psíquico",
+   "source": "Psychic Teleportation"
+  },
+  {
+   "menu": "preset",
+   "label": "Toque Vampírico",
+   "source": "Vampiric Touch"
+  },
+  {
+   "menu": "preset",
+   "label": "Trovão",
+   "source": "Thunderclap",
+   "exactMatch": true
+  },
+  {
+   "menu": "preset",
+   "label": "Viagem pela Árvore",
+   "source": "Travel along the Tree"
+  },
+  {
+   "menu": "range",
+   "label": "Água Benta",
+   "source": "Holy Water"
+  },
+  {
+   "menu": "range",
+   "label": "Âncora Planar",
+   "source": "Planar Binding"
+  },
+  {
+   "menu": "range",
+   "label": "Antipatia/Simpatia",
+   "source": "Antipathy/Sympathy"
+  },
+  {
+   "menu": "range",
+   "label": "Arco Curto",
+   "source": "Shortbow"
+  },
+  {
+   "menu": "range",
+   "label": "Arco de Osso",
+   "source": "Bone Bow"
+  },
+  {
+   "menu": "range",
+   "label": "Arco Longo",
+   "source": "Longbow"
+  },
+  {
+   "menu": "range",
+   "label": "Arma de Fogo Arcana",
+   "source": "Arcane Firearm"
+  },
+  {
+   "menu": "range",
+   "label": "Arremessar Chama",
+   "source": "Hurl Flame"
+  },
+  {
+   "menu": "range",
+   "label": "Azagaia",
+   "source": "Javelin"
+  },
+  {
+   "menu": "range",
+   "label": "Balista de Energia",
+   "source": "Force Ballista"
+  },
+  {
+   "menu": "range",
+   "label": "Beijo Drenante",
+   "source": "Draining Kiss"
+  },
+  {
+   "menu": "range",
+   "label": "Bomba",
+   "source": "Bomb"
+  },
+  {
+   "menu": "range",
+   "label": "Borrifo Fedorento",
+   "source": "Stench Spray"
+  },
+  {
+   "menu": "range",
+   "label": "Borrifo Venenoso",
+   "source": "Poison Spray"
+  },
+  {
+   "menu": "range",
+   "label": "Bumerangue",
+   "source": "Boomerang"
+  },
+  {
+   "menu": "range",
+   "label": "Choque",
+   "source": "Shock"
+  },
+  {
+   "menu": "range",
+   "label": "Clarão de Fogo Mágico",
+   "source": "Spellfire Flare"
+  },
+  {
+   "menu": "range",
+   "label": "Consumir Vida",
+   "source": "Consume Life"
+  },
+  {
+   "menu": "range",
+   "label": "Contágio",
+   "source": "Contagion"
+  },
+  {
+   "menu": "range",
+   "label": "Contragolpe Mágico",
+   "source": "Magical Backlash"
+  },
+  {
+   "menu": "range",
+   "label": "Convocar Relâmpagos",
+   "source": "Call Lightning"
+  },
+  {
+   "menu": "range",
+   "label": "Cordão de Flechas",
+   "source": "Cordon of Arrows"
+  },
+  {
+   "menu": "range",
+   "label": "Corrente de Relâmpagos",
+   "source": "Chain Lightning"
+  },
+  {
+   "menu": "range",
+   "label": "Criar Chamas",
+   "source": "Produce Flame"
+  },
+  {
+   "menu": "range",
+   "label": "Dardo",
+   "source": "Dart"
+  },
+  {
+   "menu": "range",
+   "label": "Dardo de Energia",
+   "source": "Force Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Dardo Ígneo",
+   "source": "Fiery Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Dedo da Morte",
+   "source": "Finger of Death"
+  },
+  {
+   "menu": "range",
+   "label": "Defesas Sedutoras",
+   "source": "Beguiling Defenses"
+  },
+  {
+   "menu": "range",
+   "label": "Descarga Elétrica",
+   "source": "Electrical Discharge"
+  },
+  {
+   "menu": "range",
+   "label": "Desintegrar",
+   "source": "Disintegrate"
+  },
+  {
+   "menu": "range",
+   "label": "Desnorteamento",
+   "source": "Befuddlement"
+  },
+  {
+   "menu": "range",
+   "label": "Desnortear",
+   "source": "Befuddlement"
+  },
+  {
+   "menu": "range",
+   "label": "Devorar Intelecto",
+   "source": "Devour Intellect"
+  },
+  {
+   "menu": "range",
+   "label": "Dilacerar Mente",
+   "source": "Rend Mind"
+  },
+  {
+   "menu": "range",
+   "label": "Dominar Mente",
+   "source": "Dominate Mind"
+  },
+  {
+   "menu": "range",
+   "label": "Drenar Vida",
+   "source": "Life Drain"
+  },
+  {
+   "menu": "range",
+   "label": "Dreno de Energia",
+   "source": "Energy Drain"
+  },
+  {
+   "menu": "range",
+   "label": "Dreno de Sangue",
+   "source": "Blood Drain"
+  },
+  {
+   "menu": "range",
+   "label": "Dreno de Vida",
+   "source": "Life Drain"
+  },
+  {
+   "menu": "range",
+   "label": "Enfraquecer o Intelecto",
+   "source": "Feeblemind"
+  },
+  {
+   "menu": "range",
+   "label": "Escopeta",
+   "source": "Shotgun"
+  },
+  {
+   "menu": "range",
+   "label": "Espinho Mental",
+   "source": "Mind Spike"
+  },
+  {
+   "menu": "range",
+   "label": "Essência de Éter",
+   "source": "Essence of Ether"
+  },
+  {
+   "menu": "range",
+   "label": "Estrela Sagrada de Mystra",
+   "source": "Holy Star of Mystra"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão",
+   "source": "Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão Aquática",
+   "source": "Aquatic Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão Arcana",
+   "source": "Arcane Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão de Feitiçaria",
+   "source": "Sorcerous Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão de Terra",
+   "source": "Earth Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão Feiticeira",
+   "source": "Sorcerous Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão Necrótica",
+   "source": "Necrotic Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Explosão Sobrenatural",
+   "source": "Eldritch Burst"
+  },
+  {
+   "menu": "range",
+   "label": "Faca de Gelo",
+   "source": "Ice Knife"
+  },
+  {
+   "menu": "range",
+   "label": "Fala Telepática",
+   "source": "Telepathic Speech"
+  },
+  {
+   "menu": "range",
+   "label": "Flecha Ácida",
+   "source": "Acid Arrow"
+  },
+  {
+   "menu": "range",
+   "label": "Funda",
+   "source": "Sling"
+  },
+  {
+   "menu": "range",
+   "label": "Golpe de Bruxa",
+   "source": "Witch Strike"
+  },
+  {
+   "menu": "range",
+   "label": "Golpe Relampejante",
+   "source": "Lightning Strike"
+  },
+  {
+   "menu": "range",
+   "label": "Granada de Fragmentação",
+   "source": "Fragmentation Grenade"
+  },
+  {
+   "menu": "range",
+   "label": "Granada de Fumaça",
+   "source": "Smoke Grenade"
+  },
+  {
+   "menu": "range",
+   "label": "Impulso Telecinético",
+   "source": "Telekinetic Thrust"
+  },
+  {
+   "menu": "range",
+   "label": "Inundação de Energia Negativa",
+   "source": "Negative Energy Flood"
+  },
+  {
+   "menu": "range",
+   "label": "Invocar Relâmpagos",
+   "source": "Call Lightning"
+  },
+  {
+   "menu": "range",
+   "label": "Labirinto",
+   "source": "Maze"
+  },
+  {
+   "menu": "range",
+   "label": "Lâmina Solar",
+   "source": "Sun Blade"
+  },
+  {
+   "menu": "range",
+   "label": "Lampejo Estelar",
+   "source": "Starry Wisp"
+  },
+  {
+   "menu": "range",
+   "label": "Lança Mental",
+   "source": "Mind Spike"
+  },
+  {
+   "menu": "range",
+   "label": "Lança-Granadas",
+   "source": "Grenade Launcher"
+  },
+  {
+   "menu": "range",
+   "label": "Lançador de Engrenagens",
+   "source": "Gear Flinger"
+  },
+  {
+   "menu": "range",
+   "label": "Lançamento de Rocha",
+   "source": "Rock Launch"
+  },
+  {
+   "menu": "range",
+   "label": "Lasca Mental",
+   "source": "Mind Sliver"
+  },
+  {
+   "menu": "range",
+   "label": "Ligação Telepática",
+   "source": "Telepathic Bond"
+  },
+  {
+   "menu": "range",
+   "label": "Malícia",
+   "source": "Malice"
+  },
+  {
+   "menu": "range",
+   "label": "Mensagem",
+   "source": "Message"
+  },
+  {
+   "menu": "range",
+   "label": "Mente Desperta",
+   "source": "Awakened Mind"
+  },
+  {
+   "menu": "range",
+   "label": "Mísseis Mágicos",
+   "source": "Magic Missile"
+  },
+  {
+   "menu": "range",
+   "label": "Modificar Memória",
+   "source": "Modify Memory"
+  },
+  {
+   "menu": "range",
+   "label": "Mosquete",
+   "source": "Musket"
+  },
+  {
+   "menu": "range",
+   "label": "Orbe Cromático",
+   "source": "Chromatic Orb"
+  },
+  {
+   "menu": "range",
+   "label": "Pistola",
+   "source": "Pistol"
+  },
+  {
+   "menu": "range",
+   "label": "Possessão",
+   "source": "Possession"
+  },
+  {
+   "menu": "range",
+   "label": "Probóscide",
+   "source": "Proboscis"
+  },
+  {
+   "menu": "range",
+   "label": "Produzir Chama",
+   "source": "Produce Flame"
+  },
+  {
+   "menu": "range",
+   "label": "Queimar",
+   "source": "Burn"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Adoecedor",
+   "source": "Ray of Sickness"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Ardente",
+   "source": "Scorching Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio da Morte",
+   "source": "Death Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Bruxa",
+   "source": "Witch Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Confusão",
+   "source": "Confusion Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Desintegração",
+   "source": "Disintegration Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Enervação",
+   "source": "Enervation Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Enfeitiçamento",
+   "source": "Charm Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Fogo",
+   "source": "Fire Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Gelo",
+   "source": "Ray of Frost"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Lentidão",
+   "source": "Slowing Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio de Petrificação",
+   "source": "Petrification Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio do Enfraquecimento",
+   "source": "Ray of Enfeeblement"
+  },
+  {
+   "menu": "range",
+   "label": "Raio do Medo",
+   "source": "Fear Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio do Pesadelo",
+   "source": "Nightmare Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio do Sono",
+   "source": "Sleep Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Guia",
+   "source": "Guiding Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Guiador",
+   "source": "Guiding Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Místico",
+   "source": "Eldritch Blast"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Nauseante",
+   "source": "Ray of Sickness"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Paralisante",
+   "source": "Paralyzing Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Radiante",
+   "source": "Radiant Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Sepulcral",
+   "source": "Grave Bolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Telecinético",
+   "source": "Telekinetic Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Trovejante",
+   "source": "Thunderbolt"
+  },
+  {
+   "menu": "range",
+   "label": "Raio Venenoso",
+   "source": "Poison Ray"
+  },
+  {
+   "menu": "range",
+   "label": "Rajada Mística",
+   "source": "Eldritch Blast"
+  },
+  {
+   "menu": "range",
+   "label": "Relâmpago em Cadeia",
+   "source": "Chain Lightning"
+  },
+  {
+   "menu": "range",
+   "label": "Repelir",
+   "source": "Wardaway"
+  },
+  {
+   "menu": "range",
+   "label": "Repreensão Aquosa",
+   "source": "Watery Rebuke"
+  },
+  {
+   "menu": "range",
+   "label": "Restaurar o Equilíbrio",
+   "source": "Restore Balance"
+  },
+  {
+   "menu": "range",
+   "label": "Revólver",
+   "source": "Revolver"
+  },
+  {
+   "menu": "range",
+   "label": "Rifle de Antimatéria",
+   "source": "Antimatter Rifle"
+  },
+  {
+   "menu": "range",
+   "label": "Rocha",
+   "source": "Rock"
+  },
+  {
+   "menu": "range",
+   "label": "Rochedo",
+   "source": "Boulder"
+  },
+  {
+   "menu": "range",
+   "label": "Saraivada de Casca",
+   "source": "Hail of Bark"
+  },
+  {
+   "menu": "range",
+   "label": "Sopro de Brasas",
+   "source": "Cinder Breath"
+  },
+  {
+   "menu": "range",
+   "label": "Sopro de Lama",
+   "source": "Mud Breath"
+  },
+  {
+   "menu": "range",
+   "label": "Surto",
+   "source": "Surge"
+  },
+  {
+   "menu": "range",
+   "label": "Teia",
+   "source": "Web"
+  },
+  {
+   "menu": "range",
+   "label": "Toque Chocante",
+   "source": "Shocking Grasp"
+  },
+  {
+   "menu": "range",
+   "label": "Vapores de Othur Queimado",
+   "source": "Burnt Othur Fumes"
+  },
+  {
+   "menu": "range",
+   "label": "Vínculo Planar",
+   "source": "Planar Binding"
+  },
+  {
+   "menu": "range",
+   "label": "Vínculo Telepático",
+   "source": "Telepathic Bond"
+  },
+  {
+   "menu": "range",
+   "label": "Zarabatana",
+   "source": "Blowgun"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Acalmar Emoções",
+   "source": "Calm Emotions"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Alarme",
+   "source": "Alarm"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Anel de Lâminas",
+   "source": "Blade Ring"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Área Escorregadia",
+   "source": "Grease"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Arma de Sopro",
+   "source": "Breath Weapon"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Aura de Calor",
+   "source": "Heat Aura"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Auxílio da Terra",
+   "source": "Land's Aid"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Borrifo de Cores",
+   "source": "Color Spray"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Borrifo Prismático",
+   "source": "Prismatic Spray"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Bramido Trovejante",
+   "source": "Thunderous Bellow"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Caldeirão Borbulhante de Tasha",
+   "source": "Tasha's Bubbling Cauldron"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Canhão Explosivo",
+   "source": "Explosive Cannon"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Círculo da Morte",
+   "source": "Circle of Death"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Círculo Mágico",
+   "source": "Magic Circle"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Clarão Cegante",
+   "source": "Blinding Flash"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Coluna de Chamas",
+   "source": "Flame Strike"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Cone Antimagia",
+   "source": "Antimagic Cone"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Cone de Energia Negativa",
+   "source": "Negative Energy Cone"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Cone de Frio",
+   "source": "Cone of Cold"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Conjurar Celestial",
+   "source": "Conjure Celestial"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Conjurar Rajada",
+   "source": "Conjure Barrage"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Conjurar Saraivada",
+   "source": "Conjure Volley"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Consagrar",
+   "source": "Hallow"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Constrição",
+   "source": "Entangle"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Controlar a Água",
+   "source": "Control Water"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Controlar Água",
+   "source": "Control Water"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Crescer Espinhos",
+   "source": "Spike Growth"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Criação",
+   "source": "Creation"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Criar ou Destruir Água",
+   "source": "Create or Destroy Water"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Curar Ferimentos em Massa",
+   "source": "Mass Cure Wounds"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Desacelerar",
+   "source": "Slow"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Despedaçar",
+   "source": "Shatter"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Elementalismo",
+   "source": "Elementalism"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Escuridão",
+   "source": "Darkness"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Esfera Flamejante",
+   "source": "Flaming Sphere"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Esferas de Metal",
+   "source": "Ball Bearings"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Estática Sináptica",
+   "source": "Synaptic Static"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Congelante",
+   "source": "Freezing Burst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Elemental",
+   "source": "Elemental Burst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Mental",
+   "source": "Mind Burst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Mortal",
+   "source": "Death Burst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Sagrada",
+   "source": "Holy Burst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Explosão Solar",
+   "source": "Sunburst"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Expulsar Mortos-Vivos",
+   "source": "Turn Undead"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Fedor",
+   "source": "Stench"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Feixe Divino",
+   "source": "Divine Beam"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Fogo das Fadas",
+   "source": "Faerie Fire"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Fome de Yeenoghu",
+   "source": "Hunger of Yeenoghu"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Força Fantasmagórica",
+   "source": "Phantasmal Force"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Fuga Rancorosa",
+   "source": "Spiteful Escape"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Globo de Invulnerabilidade",
+   "source": "Globe of Invulnerability"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Grito Agudo",
+   "source": "Shriek"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Guincho",
+   "source": "Screech"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Iluminação Inflamada",
+   "source": "Ignited Illumination"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Ilusão Programada",
+   "source": "Programmed Illusion"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Implosão Deformadora",
+   "source": "Warping Implosion"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Inverter Gravidade",
+   "source": "Reverse Gravity"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Ira do Mar",
+   "source": "Wrath of the Sea"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Lamento Mortífero",
+   "source": "Deathly Wail"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Lança Prateada de Laeral",
+   "source": "Laeral's Silver Lance"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Lança-Chamas",
+   "source": "Flamethrower"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Lentidão",
+   "source": "Slow"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Lufada de Vento",
+   "source": "Gust of Wind"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Luz do Dia",
+   "source": "Daylight"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Mãos Flamejantes",
+   "source": "Burning Hands"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Maré da Perdição",
+   "source": "Doomtide"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Medo",
+   "source": "Fear",
+   "exactMatch": true
+  },
+  {
+   "menu": "templatefx",
+   "label": "Miasma Nocivo",
+   "source": "Noxious Miasma"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Miragem Arcana",
+   "source": "Mirage Arcane"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Movimento Abalador de Mundos",
+   "source": "World-Shaking Movement"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Energia",
+   "source": "Wall of Force"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Espinhos",
+   "source": "Wall of Thorns"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Fogo",
+   "source": "Wall of Fire"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Gelo",
+   "source": "Wall of Ice"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Lâminas",
+   "source": "Blade Wall"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Pedra",
+   "source": "Wall of Stone"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha de Vento",
+   "source": "Wind Wall"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Muralha Prismática",
+   "source": "Prismatic Wall"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Murchar e Florescer",
+   "source": "Wither and Bloom"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Nevasca",
+   "source": "Sleet Storm"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Névoa Fétida",
+   "source": "Stinking Cloud"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Névoa Mortal",
+   "source": "Cloudkill"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Névoa Obscurecente",
+   "source": "Fog Cloud"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Nuvem de Adagas",
+   "source": "Cloud of Daggers"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Nuvem de Tinta",
+   "source": "Ink Cloud"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Nuvem Fétida",
+   "source": "Fetid Cloud"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Nuvem Incendiária",
+   "source": "Incendiary Cloud"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Olhar Petrificante",
+   "source": "Petrifying Gaze"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Onda Crepitante",
+   "source": "Crackling Wave"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Onda de Choque da Glória",
+   "source": "Shockwave of Glory"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Onda Destrutiva",
+   "source": "Destructive Wave"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Padrão Hipnótico",
+   "source": "Hypnotic Pattern"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Pequeno Refúgio",
+   "source": "Tiny Hut"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Perturbar Vida",
+   "source": "Disrupt Life"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Praga de Insetos",
+   "source": "Insect Plague"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Purificar Alimentos e Bebidas",
+   "source": "Purify Food and Drink"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Radiação da Alvorada",
+   "source": "Radiance of the Dawn"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Raio Lunar",
+   "source": "Moonbeam"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Raio Solar",
+   "source": "Sunbeam"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Rajada de Vento",
+   "source": "Gust of Wind"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Rajada Mental",
+   "source": "Mind Blast"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Rajada Prismática",
+   "source": "Prismatic Spray"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Relâmpago",
+   "source": "Lightning Bolt"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Respingo Ácido",
+   "source": "Acid Splash"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sangue Corruptor",
+   "source": "Fiendish Blood"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Semblante Horrendo",
+   "source": "Horrific Visage"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Semblante Horripilante",
+   "source": "Horrific Visage"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Semblante Inquietante",
+   "source": "Unsettling Visage"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Silêncio",
+   "source": "Silence"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sinistro",
+   "source": "Weird"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro",
+   "source": "Breath Weapon"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Ácido",
+   "source": "Acid Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Cegante",
+   "source": "Blinding Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Congelante",
+   "source": "Frost Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Dragão",
+   "source": "Dragon's Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Fogo",
+   "source": "Fire Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Frio",
+   "source": "Cold Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Lentidão",
+   "source": "Slowing Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Repulsão",
+   "source": "Repulsion Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro de Vapor",
+   "source": "Steam Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro do Sono",
+   "source": "Sleep Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Enfraquecedor",
+   "source": "Weakening Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Necrótico",
+   "source": "Necrotic Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Paralisante",
+   "source": "Paralyzing Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Petrificante",
+   "source": "Petrifying Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Relampejante",
+   "source": "Lightning Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Sombrio",
+   "source": "Shadow Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Sopro Venenoso",
+   "source": "Poison Breath"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Spray de Cores",
+   "source": "Color Spray"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Teletransporte Mortífero",
+   "source": "Deathly Teleport"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Teletransporte Radiante",
+   "source": "Radiant Teleport"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Tempestade de Fogo Mágico",
+   "source": "Spellfire Storm"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Tempestade de Gelo",
+   "source": "Ice Storm"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Tempestade de Relâmpagos",
+   "source": "Lightning Storm"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Tentáculos Negros",
+   "source": "Black Tentacles"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Terreno Alucinatório",
+   "source": "Hallucinatory Terrain"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Tinta Tóxica",
+   "source": "Toxic Ink"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Uivar",
+   "source": "Howl"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Vapores Nauseantes",
+   "source": "Sickening Vapors"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Vendaval Gélido",
+   "source": "Cold Gale"
+  },
+  {
+   "menu": "templatefx",
+   "label": "Zona da Verdade",
+   "source": "Zone of Truth"
+  }
+ ]
+}
