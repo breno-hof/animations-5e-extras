@@ -55,7 +55,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ github.ref_name }}
-        run: gh release create "$TAG" animations-5e-extras.zip dist/module.json --title "$TAG" --generate-notes --verify-tag
+        # A release made by hand in the GitHub UI for this tag gets the files attached
+        # instead of failing the run.
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" animations-5e-extras.zip dist/module.json --clobber
+          else
+            gh release create "$TAG" animations-5e-extras.zip dist/module.json --title "$TAG" --generate-notes --verify-tag
+          fi
 
       - name: Publish on foundryvtt.com
         env:
