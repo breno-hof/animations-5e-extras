@@ -1,5 +1,5 @@
 {
-  "MORE5EANIM": {
+  "ANIM5EX": {
     "Settings": {
       "Sync": {
         "Name": "Entradas do Automated Animations",
@@ -15,11 +15,11 @@
       }
     },
     "Sync": {
-      "Title": "More D&D5e Animations",
+      "Title": "Animations 5e Extras",
       "Intro": "Adiciona presets que faltam no D&D5e Animations: os nomes em pt-BR dos itens dele e presets escolhidos à mão para itens que ele não cobre. Cada entrada copia uma entrada do D&D5e Animations deste mundo, então ajustes feitos nela são levados junto.",
       "Summary": "{add} para adicionar, {update} para atualizar, {remove} para remover.",
       "NothingToDo": "Tudo em dia.",
-      "Done": "More D&D5e Animations: {add} adicionadas, {update} atualizadas, {remove} removidas.",
+      "Done": "Animations 5e Extras: {add} adicionadas, {update} atualizadas, {remove} removidas.",
       "Added": "Para adicionar",
       "Updated": "Para atualizar",
       "Removed": "Para remover",

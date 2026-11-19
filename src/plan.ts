@@ -13,7 +13,9 @@ export const MENUS = ['melee', 'range', 'ontoken', 'templatefx', 'preset', 'aura
 export type Menu = (typeof MENUS)[number];
 
 /** Written into metaData.name. D&D5e Animations leaves entries with any other name alone. */
-export const META_NAME = 'More 5e Animations';
+export const META_NAME = 'Animations 5e Extras';
+/** Names earlier releases wrote; their entries still count as this module's. */
+const LEGACY_META_NAMES = new Set(['More 5e Animations']);
 
 export interface AutorecEntry {
   id?: string;
@@ -70,7 +72,8 @@ export const rinse = (label: string): string => label.replace(/\s+/g, '').toLowe
 /** Automated Animations searches active effects apart from every other menu. */
 const scopeOf = (menu: Menu): string => (menu === 'aefx' ? 'aefx' : 'main');
 
-export const isOurs = (entry: AutorecEntry): boolean => entry.metaData?.name === META_NAME;
+export const isOurs = (entry: AutorecEntry): boolean =>
+  entry.metaData?.name === META_NAME || LEGACY_META_NAMES.has(String(entry.metaData?.name));
 
 function stableStringify(value: unknown): string {
   if (Array.isArray(value)) return `[${value.map(stableStringify).join(',')}]`;
@@ -181,7 +184,11 @@ export function planSync(input: PlanInput): Plan {
       next[w.menu].push(entry);
       touched.add(w.menu);
       plan.add.push(entry);
-    } else if (owner.menu !== w.menu || owner.entry.metaData?.fingerprint !== entry.metaData?.fingerprint) {
+    } else if (
+      owner.menu !== w.menu ||
+      owner.entry.metaData?.fingerprint !== entry.metaData?.fingerprint ||
+      owner.entry.metaData?.name !== META_NAME // written under an old name: retag it
+    ) {
       entry.id = owner.entry.id ?? randomId();
       next[owner.menu] = next[owner.menu].filter((e) => e !== owner.entry);
       next[w.menu].push(entry);

@@ -1,8 +1,8 @@
 {
-  "id": "more-dnd5e-animations",
-  "title": "More D&D5e Animations",
+  "id": "animations-5e-extras",
+  "title": "Animations 5e Extras",
   "description": "More presets for D&D5e Animations: pt-BR names of its items and hand-picked presets for items it does not cover.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "authors": [
     {
       "name": "breno-hof",
@@ -14,7 +14,7 @@
     "verified": "14.369"
   },
   "esmodules": ["scripts/module.js"],
-  "styles": ["styles/more-dnd5e-animations.css"],
+  "styles": ["styles/animations-5e-extras.css"],
   "languages": [
     { "lang": "en", "name": "English", "path": "lang/en.json" },
     { "lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json" }
@@ -36,8 +36,8 @@
   },
   "license": "LICENSE",
   "readme": "README.md",
-  "url": "https://github.com/breno-hof/more-dnd5e-animations",
-  "bugs": "https://github.com/breno-hof/more-dnd5e-animations/issues",
-  "manifest": "https://github.com/breno-hof/more-dnd5e-animations/releases/latest/download/module.json",
-  "download": "https://github.com/breno-hof/more-dnd5e-animations/releases/latest/download/more-dnd5e-animations.zip"
+  "url": "https://github.com/breno-hof/animations-5e-extras",
+  "bugs": "https://github.com/breno-hof/animations-5e-extras/issues",
+  "manifest": "https://github.com/breno-hof/animations-5e-extras/releases/latest/download/module.json",
+  "download": "https://github.com/breno-hof/animations-5e-extras/releases/latest/download/animations-5e-extras.zip"
 }

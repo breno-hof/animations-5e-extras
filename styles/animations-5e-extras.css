@@ -1,0 +1,8 @@
+.anim5ex-sync { display: flex; flex-direction: column; gap: 0.5rem; max-height: 70vh; overflow-y: auto; }
+.anim5ex-sync p { margin: 0; }
+.anim5ex-summary { font-weight: bold; }
+.anim5ex-list summary { cursor: pointer; }
+.anim5ex-list ul { columns: 2; margin: 0.25rem 0; padding-left: 1.25rem; }
+.anim5ex-list textarea { width: 100%; font-family: var(--font-mono, monospace); }
+.anim5ex-count { opacity: 0.7; }
+.anim5ex-muted { opacity: 0.6; font-size: 0.9em; }

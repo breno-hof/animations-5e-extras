@@ -123,3 +123,15 @@ test('remove all takes out only our entries', () => {
   assert.equal(plan.remove.length, 1);
   assert.deepEqual(plan.changed.melee?.map((e) => e.label), ['Longsword']);
 });
+
+test('entries from the old module name are ours: retagged, and removable', () => {
+  const first = input({});
+  const after = applied(first.menus, planSync(first));
+  const legacy = after.melee.find((e) => e.label === 'Espada Longa')!;
+  legacy.metaData = { ...legacy.metaData, name: 'More 5e Animations' };
+  const plan = planSync(input({ menus: after }));
+  assert.equal(plan.update.length, 1);
+  assert.equal(plan.update[0]!.metaData?.name, META_NAME);
+  assert.equal(plan.update[0]!.id, legacy.id);
+  assert.equal(planRemoveAll(after).remove.length, 1);
+});

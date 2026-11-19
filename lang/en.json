@@ -1,5 +1,5 @@
 {
-  "MORE5EANIM": {
+  "ANIM5EX": {
     "Settings": {
       "Sync": {
         "Name": "Automated Animations entries",
@@ -15,11 +15,11 @@
       }
     },
     "Sync": {
-      "Title": "More D&D5e Animations",
+      "Title": "Animations 5e Extras",
       "Intro": "Adds presets that D&D5e Animations lacks: the pt-BR names of its items and hand-picked presets for items it does not cover. Each entry copies a D&D5e Animations entry from this world, so edits to that entry carry over.",
       "Summary": "{add} to add, {update} to update, {remove} to remove.",
       "NothingToDo": "Everything is up to date.",
-      "Done": "More D&D5e Animations: {add} added, {update} updated, {remove} removed.",
+      "Done": "Animations 5e Extras: {add} added, {update} updated, {remove} removed.",
       "Added": "To add",
       "Updated": "To update",
       "Removed": "To remove",

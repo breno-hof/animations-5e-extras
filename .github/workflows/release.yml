@@ -1,7 +1,7 @@
 name: Release
 
 # Push a tag like v0.2.0 (matching module.json) to publish a GitHub Release with
-# more-dnd5e-animations.zip and module.json attached. Foundry installs and
+# animations-5e-extras.zip and module.json attached. Foundry installs and
 # updates from the releases/latest/download/ URLs in module.json.
 on:
   push:
@@ -42,15 +42,15 @@ jobs:
       - run: npm run check
 
       - name: Package
-        run: cd dist && zip -r ../more-dnd5e-animations.zip .
+        run: cd dist && zip -r ../animations-5e-extras.zip .
 
       - name: Attest build provenance
         uses: actions/attest-build-provenance@v4
         with:
-          subject-path: more-dnd5e-animations.zip
+          subject-path: animations-5e-extras.zip
 
       - name: Create GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ github.ref_name }}
-        run: gh release create "$TAG" more-dnd5e-animations.zip dist/module.json --title "$TAG" --generate-notes --verify-tag
+        run: gh release create "$TAG" animations-5e-extras.zip dist/module.json --title "$TAG" --generate-notes --verify-tag

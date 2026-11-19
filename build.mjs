@@ -1,7 +1,7 @@
 // Builds the installable module into dist/, laid out exactly as Foundry expects:
 //   dist/module.json, scripts/, styles/, lang/, LICENSE, README.md
 // The preset data (data/*.json) is bundled into the script.
-// `--dev` adds source maps. Symlink dist/ to <Foundry data>/modules/more-dnd5e-animations to test.
+// `--dev` adds source maps. Symlink dist/ to <Foundry data>/modules/animations-5e-extras to test.
 //
 // The script and stylesheet carry the version in their file name, so browsers
 // and proxies never pair a cached old script with a new module.json.
@@ -13,7 +13,7 @@ const STATIC = ['styles', 'lang', 'LICENSE', 'README.md'];
 
 const manifest = JSON.parse(await readFile('module.json', 'utf8'));
 const script = `scripts/module-${manifest.version}.js`;
-const style = `styles/more-dnd5e-animations-${manifest.version}.css`;
+const style = `styles/animations-5e-extras-${manifest.version}.css`;
 
 await rm('dist', { recursive: true, force: true });
 await build({
@@ -27,7 +27,7 @@ await build({
   logLevel: 'info',
 });
 await Promise.all(STATIC.map((path) => cp(path, `dist/${path}`, { recursive: true })));
-await rename('dist/styles/more-dnd5e-animations.css', `dist/${style}`);
+await rename('dist/styles/animations-5e-extras.css', `dist/${style}`);
 await writeFile(
   'dist/module.json',
   `${JSON.stringify({ ...manifest, esmodules: [script], styles: [style] }, null, 2)}\n`,

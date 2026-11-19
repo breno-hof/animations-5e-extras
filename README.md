@@ -1,4 +1,4 @@
-# More D&D5e Animations
+# Animations 5e Extras
 
 More presets for [D&D5e Animations](https://github.com/MrVauxs/dnd5e-animations), for items it does not animate.
 
@@ -16,7 +16,7 @@ This module adds:
 
 The module does not ship animation configs. Each entry is a **copy of a D&D5e Animations entry** (its "source") under another label: "Espada Longa" is a copy of "Longsword". The copy is taken from the world's own Automated Animations menus, so it follows D&D5e Animations updates and any change the GM made to the source. If a source is missing from the world, it is read from D&D5e Animations' `autorec.json`.
 
-When a GM loads the world, the module compares what it wants with what is in the menus and, by default, asks before changing anything (*Configure Settings → More D&D5e Animations → Review and sync*). It never touches an entry it did not create:
+When a GM loads the world, the module compares what it wants with what is in the menus and, by default, asks before changing anything (*Configure Settings → Animations 5e Extras → Review and sync*). It never touches an entry it did not create:
 
 | Situation | What happens |
 |---|---|
@@ -27,7 +27,7 @@ When a GM loads the world, the module compares what it wants with what is in the
 | Label is in the *Ignored names* list | Removed and never added again |
 | Label was dropped in a module update | Removed |
 
-The entries are tagged `metaData.name: "More 5e Animations"`, so D&D5e Animations' own update menu keeps them. *Remove all* in the sync dialog takes them all out, e.g. before disabling the module.
+The entries are tagged `metaData.name: "Animations 5e Extras"`, so D&D5e Animations' own update menu keeps them. *Remove all* in the sync dialog takes them all out, e.g. before disabling the module.
 
 ## Installation
 
@@ -36,7 +36,7 @@ Requires Automated Animations and D&D5e Animations, and through them JB2A and PS
 Install with the manifest URL:
 
 ```
-https://github.com/breno-hof/more-dnd5e-animations/releases/latest/download/module.json
+https://github.com/breno-hof/animations-5e-extras/releases/latest/download/module.json
 ```
 
 ## Development

@@ -17,7 +17,7 @@ Hooks.once('ready', async () => {
     if (mode === 'prompt') return void openSyncDialog(plan);
     await applyPlan(plan);
     ui.notifications.info(
-      game.i18n.format('MORE5EANIM.Sync.Done', {
+      game.i18n.format('ANIM5EX.Sync.Done', {
         add: plan.add.length,
         update: plan.update.length,
         remove: plan.remove.length,
@@ -25,6 +25,6 @@ Hooks.once('ready', async () => {
     );
   } catch (error) {
     console.error(`${MODULE_ID} | sync failed`, error);
-    ui.notifications.error(`More D&D5e Animations | ${String(error)}`);
+    ui.notifications.error(`Animations 5e Extras | ${String(error)}`);
   }
 });

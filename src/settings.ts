@@ -1,4 +1,4 @@
-export const MODULE_ID = 'more-dnd5e-animations';
+export const MODULE_ID = 'animations-5e-extras';
 
 export const Setting = {
   SyncMode: 'syncMode',
@@ -10,24 +10,24 @@ export type SyncMode = 'prompt' | 'auto' | 'off';
 
 export function registerSettings(menuType: unknown): void {
   game.settings.registerMenu(MODULE_ID, 'sync', {
-    name: 'MORE5EANIM.Settings.Sync.Name',
-    label: 'MORE5EANIM.Settings.Sync.Label',
-    hint: 'MORE5EANIM.Settings.Sync.Hint',
+    name: 'ANIM5EX.Settings.Sync.Name',
+    label: 'ANIM5EX.Settings.Sync.Label',
+    hint: 'ANIM5EX.Settings.Sync.Hint',
     icon: 'fa-solid fa-wand-magic-sparkles',
     type: menuType,
     restricted: true,
   });
   game.settings.register<SyncMode>(MODULE_ID, Setting.SyncMode, {
-    name: 'MORE5EANIM.Settings.SyncMode.Name',
-    hint: 'MORE5EANIM.Settings.SyncMode.Hint',
+    name: 'ANIM5EX.Settings.SyncMode.Name',
+    hint: 'ANIM5EX.Settings.SyncMode.Hint',
     scope: 'world',
     config: true,
     restricted: true,
     type: String,
     choices: {
-      prompt: 'MORE5EANIM.Settings.SyncMode.Prompt',
-      auto: 'MORE5EANIM.Settings.SyncMode.Auto',
-      off: 'MORE5EANIM.Settings.SyncMode.Off',
+      prompt: 'ANIM5EX.Settings.SyncMode.Prompt',
+      auto: 'ANIM5EX.Settings.SyncMode.Auto',
+      off: 'ANIM5EX.Settings.SyncMode.Off',
     },
     default: 'prompt',
   });
