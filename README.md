@@ -57,7 +57,7 @@ To add a preset, add an entry to `data/aliases.json`:
 
 `source` must be a D&D5e Animations label in `menu` (see `data/source-labels.json`). Optional: `exactMatch`, `excludedTerms`, and `overrides` (dot paths into the copied entry, e.g. `{"primary.video.color": "green"}`). Automated Animations prefers the longest matching label, so a specific label ("Maça Golpeadora") wins over a generic one ("Golpe"). `npm run check-data` rejects unknown sources and labels that collide with D&D5e Animations'.
 
-Release: bump `version` in `module.json` and `package.json`, then push a tag `vX.Y.Z`.
+Release: bump `version` in `module.json` and `package.json`, then push a tag `vX.Y.Z`. The workflow publishes the GitHub release and, when the repository secret `FOUNDRY_RELEASE_TOKEN` holds the package's release token from foundryvtt.com, registers the version on the package page too. To check the token without publishing: `FOUNDRY_RELEASE_TOKEN=fvttp_... node tools/foundry-release.mjs --dry-run`.
 
 ## Credits
 

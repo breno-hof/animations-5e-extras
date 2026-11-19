@@ -3,6 +3,8 @@ name: Release
 # Push a tag like v0.2.0 (matching module.json) to publish a GitHub Release with
 # animations-5e-extras.zip and module.json attached. Foundry installs and
 # updates from the releases/latest/download/ URLs in module.json.
+# With the FOUNDRY_RELEASE_TOKEN secret set, the version is also registered on
+# the foundryvtt.com package page.
 on:
   push:
     tags: ['v*.*.*']
@@ -54,3 +56,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ github.ref_name }}
         run: gh release create "$TAG" animations-5e-extras.zip dist/module.json --title "$TAG" --generate-notes --verify-tag
+
+      - name: Publish on foundryvtt.com
+        env:
+          FOUNDRY_RELEASE_TOKEN: ${{ secrets.FOUNDRY_RELEASE_TOKEN }}
+          TAG: ${{ github.ref_name }}
+          REPO: ${{ github.repository }}
+        run: node tools/foundry-release.mjs
