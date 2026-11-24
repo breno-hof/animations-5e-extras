@@ -10,7 +10,9 @@ More presets for [D&D5e Animations](https://github.com/MrVauxs/dnd5e-animations)
 This module adds:
 
 - **pt-BR labels** for 1,111 D&D5e Animations entries, generated from the Babele translation files of the official books (`data/translations.json`).
-- **139 hand-picked labels** (English and pt-BR) for items D&D5e Animations does not cover, plus generic Portuguese weapon words (Machado, Arco, Besta, Espada…) and fixes for accidental matches (`data/aliases.json`).
+- **1,047 hand-picked labels** (English and pt-BR) for items D&D5e Animations does not cover, plus generic Portuguese weapon words (Machado, Arco, Besta, Espada…) and fixes for accidental matches (`data/aliases.json`). They cover spells, features, magic items and monster actions from Arcana Unleashed, Eberron: Forge of the Artificer, Ravenloft: The Horrors Within, Mordenkainen Presents: Monsters of the Multiverse, Xanathar's Guide, Heroes of Faerûn and The Crooked Moon.
+- **Distinct healing looks.** Instead of the same blue Cure Wounds for every heal, healing items get a JB2A animation and PSFX sound that fit their flavour: holy, moonlight, nature, fey, blood, necrotic, spirit, spellfire, storm, frost, arcane, alchemical, and coloured elixirs.
+- **Fixes for monster actions** that matched the wrong preset: "(Recharge 5–6)" in Monsters of the Multiverse names matched the melee "Charge", and "Spellcasting" matched "Sting".
 
 ## How it works
 
